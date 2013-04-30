@@ -22,6 +22,10 @@
 - (NSString *)countryCode {
 	return @"CN";
 }
+- (NSString *)languageCode {
+	return @"zh";
+}
+
 
 - (void)downloadComplete:(NSString *)HTMLSource {
 
@@ -45,9 +49,6 @@
 	[delegate searchReturnedNumberOfResults:[resultsURLs count] sender:self];
 }
 
-- (NSString *)languageCode {
-	return @"zh";
-}
 
 - (NSDictionary *)resultNumber:(int)number {
 
