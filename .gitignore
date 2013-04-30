@@ -13,3 +13,5 @@
 .LSOverride
 
 xcuserdata
+
+*.xcuserstate
