@@ -107,6 +107,14 @@
 		[self setResult:resultsDict infoDiv:infoDiv];
 	}
 
+	// Summary
+
+	NSString * introDiv = [html stringBetween:@"class=\"intro\"" and:@"<style>"];
+
+	if (introDiv) {
+		[resultsDict setObject:[introDiv stringBetween:@"<p>" and:@"</p>"] forKey:MKKeyEntrySummary];
+	}
+
 	return resultsDict;
 }
 
