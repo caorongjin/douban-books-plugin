@@ -290,6 +290,7 @@
 				GCC_OPTIMIZATION_LEVEL = 0;
 				INFOPLIST_FILE = Info.plist;
 				LIBRARY_STYLE = Bundle;
+				OTHER_CFLAGS = "-DDEBUG";
 				PRODUCT_NAME = DoubanBooks;
 				WARNING_CFLAGS = (
 					"-Wmost",
@@ -322,6 +323,7 @@
 				);
 				INFOPLIST_FILE = Info.plist;
 				LIBRARY_STYLE = Bundle;
+				OTHER_CFLAGS = "-DDEBUG";
 				PRODUCT_NAME = DoubanBooks;
 				WARNING_CFLAGS = (
 					"-Wmost",
