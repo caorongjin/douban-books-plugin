@@ -278,7 +278,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		052B062E0C5374CB00BBC1E0 /* Debug */ = {
+		052B062E0C5374CB00BBC1E0 /* Beta */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				COPY_PHASE_STRIP = NO;
@@ -290,6 +290,7 @@
 				GCC_OPTIMIZATION_LEVEL = 0;
 				INFOPLIST_FILE = Info.plist;
 				LIBRARY_STYLE = Bundle;
+				OTHER_CFLAGS = "-DDEBUG";
 				PRODUCT_NAME = DoubanBooks;
 				WARNING_CFLAGS = (
 					"-Wmost",
@@ -299,9 +300,9 @@
 				WRAPPER_EXTENSION = plugin;
 				ZERO_LINK = YES;
 			};
-			name = Debug;
+			name = Beta;
 		};
-		052B062F0C5374CB00BBC1E0 /* Debug */ = {
+		052B062F0C5374CB00BBC1E0 /* Beta */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
@@ -310,7 +311,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.5;
 				SDKROOT = macosx;
 			};
-			name = Debug;
+			name = Beta;
 		};
 		054401AA09473AE800A25398 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -322,6 +323,7 @@
 				);
 				INFOPLIST_FILE = Info.plist;
 				LIBRARY_STYLE = Bundle;
+				OTHER_CFLAGS = "-DDEBUG";
 				PRODUCT_NAME = DoubanBooks;
 				WARNING_CFLAGS = (
 					"-Wmost",
@@ -350,7 +352,7 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				054401AA09473AE800A25398 /* Release */,
-				052B062E0C5374CB00BBC1E0 /* Debug */,
+				052B062E0C5374CB00BBC1E0 /* Beta */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -359,7 +361,7 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				054401AE09473AE800A25398 /* Release */,
-				052B062F0C5374CB00BBC1E0 /* Debug */,
+				052B062F0C5374CB00BBC1E0 /* Beta */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

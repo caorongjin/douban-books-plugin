@@ -12,6 +12,13 @@
  * for more details.
  */
 
+#ifdef DEBUG
+	#define DLog NSLog
+#else
+	#define DLog( s, ... )
+#endif
+
+
 #import "DoubanBooks.h"
 #import "Constants.h"
 
@@ -22,6 +29,10 @@
 - (NSString *)countryCode {
 	return @"CN";
 }
+- (NSString *)languageCode {
+	return @"zh";
+}
+
 
 - (void)downloadComplete:(NSString *)HTMLSource {
 
@@ -45,9 +56,6 @@
 	[delegate searchReturnedNumberOfResults:[resultsURLs count] sender:self];
 }
 
-- (NSString *)languageCode {
-	return @"zh";
-}
 
 - (NSDictionary *)resultNumber:(int)number {
 
@@ -80,7 +88,7 @@
 
 	// Valid details URL
 
-	NSLog(@"Details URL: %@", detailsURLString);
+	DLog(@"Details URL: %@", detailsURLString);
 
 	[resultsDict setObject:detailsURLString forKey:@"url"];
 	[resultsDict setObject:[resultsTitles objectAtIndex:number] forKey:@"title"];
@@ -149,7 +157,7 @@
 	NSString * encodedString = [searchString stringByAddingPercentEscapesUsingEncoding:NSUTF8StringEncoding];
 	NSString * searchURL = [NSString stringWithFormat:SEARCH_URL_PREFACE, encodedString];
 
-	NSLog(@"Search URL: %@", searchURL);
+	DLog(@"Search URL: %@", searchURL);
 	
 	[self downloadWebPage:searchURL];
 }
