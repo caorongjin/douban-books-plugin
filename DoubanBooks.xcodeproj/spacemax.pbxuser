@@ -1,0 +1,130 @@
+// !$*UTF8*$!
+{
+	05BA0F88065F637C0064BD4D /* dvdpalace.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1209, 714}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 170}, {1209, 544}}";
+			sepNavWindowFrame = "{{38, 479}, {1254, 673}}";
+		};
+	};
+	05BA0F89065F637C0064BD4D /* dvdpalace.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1346, 12908}}";
+			sepNavSelRange = "{8167, 0}";
+			sepNavVisRect = "{{0, 0}, {1209, 544}}";
+			sepNavWindowFrame = "{{393, 146}, {1254, 673}}";
+		};
+	};
+	05D646CA0B1DE3BC00CE8FFA /* Constants.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1209, 2114}}";
+			sepNavSelRange = "{1071, 0}";
+			sepNavVisRect = "{{0, 3}, {1209, 544}}";
+			sepNavWindowFrame = "{{48, 403}, {1254, 673}}";
+		};
+	};
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeTarget = 8D5B49AC048680CD000E48DA /* dvdpalace */;
+		codeSenseManager = 12B5B6C00B1E0E1500D17A7E /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					131,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					63,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 186591448;
+			PBXWorkspaceStateSaveDate = 186591448;
+		};
+		perUserProjectItems = {
+			120687980B1F3E74009B5B27 /* PBXBookmark */ = 120687980B1F3E74009B5B27 /* PBXBookmark */;
+			1206879C0B1F3E76009B5B27 /* PBXTextBookmark */ = 1206879C0B1F3E76009B5B27 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 12B5B6BF0B1E0E1500D17A7E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	120687980B1F3E74009B5B27 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 05BA0F89065F637C0064BD4D /* dvdpalace.m */;
+	};
+	1206879C0B1F3E76009B5B27 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 05BA0F89065F637C0064BD4D /* dvdpalace.m */;
+		name = "dvdpalace.m: 205";
+		rLen = 0;
+		rLoc = 8167;
+		rType = 0;
+		vrLen = 1108;
+		vrLoc = 0;
+	};
+	12B5B6BF0B1E0E1500D17A7E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	12B5B6C00B1E0E1500D17A7E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8D5B49AC048680CD000E48DA /* dvdpalace */ = {
+		activeExec = 0;
+	};
+}
