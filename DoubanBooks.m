@@ -18,13 +18,12 @@
 	#define DLog( s, ... )
 #endif
 
+#define SEARCH_URL_PREFACE @"http://book.douban.com/subject_search?search_text=%@"
 
 #import "DoubanBooks.h"
 #import "Constants.h"
 
 @implementation DoubanBooks
-
-#define SEARCH_URL_PREFACE @"http://book.douban.com/subject_search?search_text=%@"
 
 - (NSString *)countryCode {
 	return @"CN";
