@@ -36,7 +36,7 @@
 	NSArray * subjectItems = [HTMLSource stringsBetween:@"class=\"subject-item\">" and:@"</li>"];
 
 	for (NSString * subjectItem in subjectItems) {
-		NSString * entry = [subjectItem stringBetween:@"<h2>" and:@"</h2>"];
+		NSString * entry = [subjectItem stringBetween:@"<h2" and:@"</h2>"];
 
 		NSString * url = [entry stringBetween:@"href=\"" and:@"\""];
 
