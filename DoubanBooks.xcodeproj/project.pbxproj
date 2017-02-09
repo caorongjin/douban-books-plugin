@@ -195,7 +195,7 @@
 		089C1669FE841209C02AAC07 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0410;
+				LastUpgradeCheck = 0820;
 			};
 			buildConfigurationList = 054401AC09473AE800A25398 /* Build configuration list for PBXProject "DoubanBooks" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -291,6 +291,7 @@
 				INFOPLIST_FILE = Info.plist;
 				LIBRARY_STYLE = Bundle;
 				OTHER_CFLAGS = "-DDEBUG";
+				PRODUCT_BUNDLE_IDENTIFIER = com.caorongjin.bruji.douban;
 				PRODUCT_NAME = DoubanBooks;
 				WARNING_CFLAGS = (
 					"-Wmost",
@@ -305,10 +306,9 @@
 		052B062F0C5374CB00BBC1E0 /* Beta */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
 				FRAMEWORK_SEARCH_PATHS = "\"$(SRCROOT)\"";
-				GCC_ENABLE_OBJC_GC = supported;
-				MACOSX_DEPLOYMENT_TARGET = 10.5;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
 				SDKROOT = macosx;
 			};
 			name = Beta;
@@ -324,6 +324,7 @@
 				INFOPLIST_FILE = Info.plist;
 				LIBRARY_STYLE = Bundle;
 				OTHER_CFLAGS = "-DDEBUG";
+				PRODUCT_BUNDLE_IDENTIFIER = com.caorongjin.bruji.douban;
 				PRODUCT_NAME = DoubanBooks;
 				WARNING_CFLAGS = (
 					"-Wmost",
@@ -337,10 +338,9 @@
 		054401AE09473AE800A25398 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
 				FRAMEWORK_SEARCH_PATHS = "\"$(SRCROOT)\"";
-				GCC_ENABLE_OBJC_GC = supported;
-				MACOSX_DEPLOYMENT_TARGET = 10.5;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
 				SDKROOT = macosx;
 			};
 			name = Release;

@@ -9,7 +9,7 @@
 	<key>CFBundleIconFile</key>
 	<string>searchicons.icns</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.caorongjin.bruji.douban</string>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundlePackageType</key>
@@ -17,7 +17,7 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>NSPrincipalClass</key>
 	<string>DoubanBooks</string>
 	<key>PluginSearchName</key>

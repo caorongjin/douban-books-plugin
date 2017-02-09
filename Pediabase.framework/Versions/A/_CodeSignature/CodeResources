@@ -4,135 +4,168 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Resources/0starsDots.png</key>
-		<data>
-		k95hvP3hhhpDq0mI+QbSbT7BP3g=
-		</data>
-		<key>Resources/10starsDots.png</key>
-		<data>
-		yse89iFuGL3KVsSvInChqYmw6iA=
-		</data>
-		<key>Resources/1starsDots.png</key>
-		<data>
-		YXw08mosCcb3nyJR5v6/3ghZH/s=
-		</data>
-		<key>Resources/2starsDots.png</key>
-		<data>
-		Mq8Xf/g6sXWnPI11QCxxha8wI38=
-		</data>
-		<key>Resources/3starsDots.png</key>
-		<data>
-		w1JnaBs8PoZuNKW9nmdyU9D3sPU=
-		</data>
-		<key>Resources/4starsDots.png</key>
-		<data>
-		yBXuIevCOnm/fB2ixbpSVdBbvg4=
-		</data>
-		<key>Resources/5starsDots.png</key>
-		<data>
-		QlQB+NpeImbyoj7tYldjwuGNjeo=
-		</data>
-		<key>Resources/6starsDots.png</key>
-		<data>
-		NV23As6b+arT3UbUKvDsMtA9K9U=
-		</data>
-		<key>Resources/7starsDots.png</key>
-		<data>
-		R7t94VDmmA1S3pHovWedqh1ByDc=
-		</data>
-		<key>Resources/8starsDots.png</key>
-		<data>
-		wMfNOEa7FigcrZXOb5V557fqcMA=
-		</data>
-		<key>Resources/9starsDots.png</key>
-		<data>
-		JYlgI8Ua1lfTcIWX2kWK5WQ17FQ=
-		</data>
 		<key>Resources/DVDPlayer.applescript</key>
 		<data>
-		Fv5kaxn7VO32wFPBSk9S4PZrseU=
+		AAwVskd8wXFQf53BFVHkT/s3Np0=
 		</data>
-		<key>Resources/EWSMacCompress.tar.gz</key>
-		<data>
-		OWPLSgmsSOZEdzgO7bQWKBsV0Wo=
-		</data>
-		<key>Resources/English.lproj/AboutPanel.nib</key>
+		<key>Resources/English.lproj/AboutPanel.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			P2APGroBYq1DVJGQoZh4sXgE4KQ=
+			xh/2j2ykxpwGdKkbEn3wK+M2jqk=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/English.lproj/AmazonSettings.nib</key>
+		<key>Resources/English.lproj/AboutPanel.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QhqdjGn+qmwHdO4WvzSFtULF9/8=
+			eqxEKXO5u2Kf6t8aMTE3lBwhh8k=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/English.lproj/BorrowedBy.nib</key>
+		<key>Resources/English.lproj/AmazonSettings.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Wi/IkJZyED7fOjqUM+GmZ2Xgr0Y=
+			VIL3UGp7fHDTRNOcqItwy+1JkwI=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/English.lproj/BorrowedHistory.nib</key>
+		<key>Resources/English.lproj/AmazonSettings.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Biwy4FRv+G4PTrfnFrVetJQCp5A=
+			CV10hJFawTJZyxejNlg7TtfFPmA=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/English.lproj/Contribute.nib</key>
+		<key>Resources/English.lproj/BorrowedBy.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Lc/f4rRat8pWi3cparX0iXm5rNQ=
+			RpMdJG+Ogh+3kQmZVoUiJKD7Yt8=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/English.lproj/ExportPanel.nib</key>
+		<key>Resources/English.lproj/BorrowedBy.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			L22PSyYtklxPBSAJji9sQV7eRaQ=
+			yQBtHq6bCM876w3OTN6ceD1GmJA=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/English.lproj/ImageCapturePanel.nib</key>
+		<key>Resources/English.lproj/BorrowedHistory.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eILlckkzL5rYGhKf4Nw4+YNxVHY=
+			46jlGVUNLh8VvW7uoX7vmew+9mM=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/English.lproj/ImportPanel.nib</key>
+		<key>Resources/English.lproj/BorrowedHistory.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			plOo7U7D4Koz09lEtUfe48L1vwQ=
+			3/2jVizYfk+cLyVZwUjVe3hIIuw=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/English.lproj/IncrementalID.nib</key>
+		<key>Resources/English.lproj/Contribute.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			awMeEAjG3kWcdfKw13GEW0ObbkA=
+			+hV6IgYtvkfK/lvTFnCUjARJHP0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/Contribute.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yZf9TUkcipNdoIFIjxUECgwTXcA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/ExportPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			o4FyWmAS98FlNyBERv4gpRaRjv0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/ExportPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zsnY6F0hgOh0fFOtbStBcQIFM2U=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/ImageCapturePanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			r/YTMJYu86/bwsa4rPZJ9CnRMkw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/ImageCapturePanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kE94ke1+u/nneaglYdBplZ3g098=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/ImportPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OOj5R2PzDPx7JmOB2iCYVo++EgM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/ImportPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7HirX0IktUxETfUqbVX4+0YBI48=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/IncrementalID.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			e95ItsAf2QkMGHQqE4S4xSSuPTk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/IncrementalID.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rf+K+h1LPd5uqtsZ76YLCRfpkJU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -141,106 +174,205 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oRpk8C5u3LaOa4emJmW3dpNLFPg=
+			73eh6UZXNESaW7h7Wj0OZwqOk00=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/English.lproj/Mailer.nib</key>
+		<key>Resources/English.lproj/Mailer.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MK+RImd/etG7UbonfugCR+x3I/4=
+			PhnfwTBR5GWlBIAp+Hs8xxIiwhw=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/English.lproj/MultiAddPanel.nib</key>
+		<key>Resources/English.lproj/Mailer.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tkwOxY90wAFz1qWnhxjyCbERxek=
+			KKDZH4bYLITl9rr/3+NB87HEi2I=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/English.lproj/MultiEditPanel.nib</key>
+		<key>Resources/English.lproj/MultiAddPanel.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YkRBMa0W0rRVWX8LUDAURljk6u8=
+			B3MEC6CCZ6FejqCS/Css5rf5iX0=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/English.lproj/Pocketpedia.nib</key>
+		<key>Resources/English.lproj/MultiAddPanel.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			V7fHuZ6Xkg1qRk0mP1uNGDF/ISA=
+			xNxC31rg821fhtVkFvrJHvMdk2k=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/English.lproj/PrintPanel.nib</key>
+		<key>Resources/English.lproj/MultiEditPanel.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pCj6v4ANaWkOH8RnCNRi87wTgg4=
+			R6gRGeuExnRAvxMGIvqKRiZzRuI=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/English.lproj/Registration.nib</key>
+		<key>Resources/English.lproj/MultiEditPanel.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+fHYbgVLVlmstTlyl0I0T1h1Ue8=
+			Yv/irKKsfIEIdebJJZf001l1Qf4=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/English.lproj/SmartCollectionPanel.nib</key>
+		<key>Resources/English.lproj/Pocketpedia.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zTc8/O9q8LCC2v3EvfYPvmJwyqA=
+			DmlcdYs0u+KOa3oBcNGRhVPx344=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/English.lproj/StatisticsConfigure.nib</key>
+		<key>Resources/English.lproj/Pocketpedia.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Fan997v+kfk8QGfdBIaCyBS1nqE=
+			M8F8cQuCVOJWM8OlcijOoe6VqLM=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/English.lproj/WarningSheet.nib</key>
+		<key>Resources/English.lproj/PrintPanel.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VwAoyGnQ8Tlsg9S+iqN9LQL9N2c=
+			xyCtv/maRDf4BYkLU6jPdP6K+QQ=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/English.lproj/WebHeaderViews.nib</key>
+		<key>Resources/English.lproj/PrintPanel.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tpuvMyFErCW88xC6RNhKz+xjw8M=
+			tZaT1t4J8yIFENNoBD8WV4k9mB0=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/English.lproj/duplicatesView.nib</key>
+		<key>Resources/English.lproj/Registration.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4OeoCmmn7H/PEFjNtvSa2nXgLJM=
+			gHNeEjhvo3/V9RdpMWwxk/3JOaM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/Registration.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WPEkAEEATzgREH5nHbjQeLZP+WM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/SmartCollectionPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Qt4GPogaW3ImT9/p1XcflGdC0g8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/SmartCollectionPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6ZFwlsLnrgEAVCbmPS04sM7zr/I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/StatisticsConfigure.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lIR4/mS6q6Vrjxkk0Nj8VX2VkY8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/StatisticsConfigure.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4e3CWD9oPes7EB4C8/wGntNepio=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/WarningSheet.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HO/TI+aC0tkQPuLwHSy2Suz9MQ4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/WarningSheet.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			k/e0TrlwaArQ78/9OLvnd6sQJUc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/WebHeaderViews.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4hIyXuUIyShqZnY9HFGYg8SUGFI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/WebHeaderViews.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SAjamIny5Wv5X1SJr9BD7+0icOI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/duplicatesView.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8RCcXeLpL250HTBUrE+L61+GgHM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/duplicatesView.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			L9UhlOY2uADxV8OUV/1fdk+3+Aw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -251,11 +383,15 @@
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		c/Srdy6pjMtpcOCk61SVMgrVc9w=
+		NYNU4kxZcHCdT8UMKxqIShAHrzY=
 		</data>
 		<key>Resources/InfoPlist.strings</key>
 		<data>
 		NYewiZUTZS9OYuk0ue2LxJarfA4=
+		</data>
+		<key>Resources/Morse.aiff</key>
+		<data>
+		7mCwZvz/FplLfEeFBI1tVbGUz0w=
 		</data>
 		<key>Resources/ProAppCircle.png</key>
 		<data>
@@ -269,159 +405,304 @@
 		<data>
 		DhJ/ZH7pXS9xj3LFDdaaRmdjW0s=
 		</data>
+		<key>Resources/ScannerWindow.nib/designable.nib</key>
+		<data>
+		5jEAcPCDDwfGUCJdKl9pHIwIXtk=
+		</data>
+		<key>Resources/ScannerWindow.nib/keyedobjects.nib</key>
+		<data>
+		sZH1mofo3280VJ1XZjZHeYrOrUY=
+		</data>
 		<key>Resources/VLC.applescript</key>
 		<data>
 		w81kNdQHc/mxjtP+ZbgZp8L97hI=
+		</data>
+		<key>Resources/addManyToolbar.pdf</key>
+		<data>
+		5bptily42heHdush50qWeev7QKk=
+		</data>
+		<key>Resources/addManyToolbarMavericks.pdf</key>
+		<data>
+		+7CTnk8XjykRSc92fGJh6xGAQCs=
 		</data>
 		<key>Resources/addPanelSelected.png</key>
 		<data>
 		IZ3GXr617+spp9XfgdjVpvk5paU=
 		</data>
-		<key>Resources/addToolbar.png</key>
+		<key>Resources/addToolbar.pdf</key>
 		<data>
-		eQgAxI8oavzaZYFyPpii61e5itw=
+		XULsDcB4XYd86i9iU2nNCgXH+Gc=
 		</data>
-		<key>Resources/atSign.png</key>
+		<key>Resources/addToolbarMavericks.pdf</key>
 		<data>
-		mHeCYsz96g4SoQBcs3GuDdq9ZUs=
+		cnMA03qoTZp3d6I7X+w0KE903pM=
 		</data>
-		<key>Resources/au.png</key>
+		<key>Resources/address.tiff</key>
 		<data>
-		eaCrqDA2GT4ywT17tjqRIjc6S+o=
+		SOZds0ZmuTRlJbHVdS+HSjmUfgg=
 		</data>
-		<key>Resources/backWebSplit.png</key>
+		<key>Resources/amazonOpen@.png</key>
 		<data>
-		2P40zP1JVAxgD1H7tm9+vo3JNuE=
+		jarj0K2yRoNAUdRvdN5xUjOlYRE=
 		</data>
-		<key>Resources/backgroundBottomAddPanel.png</key>
+		<key>Resources/amazonOpen@2x.png</key>
 		<data>
-		4DylOrcOsdmtBB5IQ+Ns0Br7rHU=
+		5L3rWU33Mj4Aa55V9uMqcec5eWo=
 		</data>
-		<key>Resources/be.png</key>
+		<key>Resources/at.tiff</key>
 		<data>
-		AMaNEnL7YQQpkS6LqYRNVyOlA64=
+		OLuX+ytW3f+pXf0y4zE2enTI68o=
 		</data>
-		<key>Resources/bluetooth.png</key>
+		<key>Resources/atSign.tiff</key>
 		<data>
-		WWFCVkYyuzE9/69qBdk65JGip18=
+		OP4RN3VED0IGz17l3fO8XbIHYtE=
 		</data>
-		<key>Resources/bluetoothSelected.png</key>
+		<key>Resources/au.tiff</key>
 		<data>
-		0ZIfREi2rQgLykHWjSZlqsQNqpk=
+		fnl2Pik2yp0SzIs4TIek0t51OnQ=
 		</data>
-		<key>Resources/borrowToolbar.png</key>
+		<key>Resources/be.tiff</key>
 		<data>
-		U2IvIHb+0hh/3bCzFMz6NdfXdwI=
+		BR1K2mlUKLXVB7Np9wFpWTa5UHk=
 		</data>
-		<key>Resources/borrowedHistoryToolbar.png</key>
+		<key>Resources/blueLibrary.tiff</key>
 		<data>
-		Vj7GCtwyTg4D+GcPj4G6whVoqlQ=
+		e5HD0X4eeEScgS4epFYpFodGBHg=
 		</data>
-		<key>Resources/ca.png</key>
+		<key>Resources/bluetooth.tiff</key>
 		<data>
-		2aLvN902cUfaCl3HGjOmHdZXVSA=
+		jv7oJBlVcB3ORwvUt5FTqXiVbY0=
+		</data>
+		<key>Resources/bluetoothSelected.tiff</key>
+		<data>
+		Uv8z4tbQSQI9HeLgC0Qxnt1jIH0=
+		</data>
+		<key>Resources/borrowToolbar.pdf</key>
+		<data>
+		rn49sWcFKgEnfxrpdTKBZKgnhqk=
+		</data>
+		<key>Resources/borrowToolbarMavericks.pdf</key>
+		<data>
+		2H4EqR7VQXg2LeQt4WMUW+FdGQA=
+		</data>
+		<key>Resources/borrowed.tiff</key>
+		<data>
+		u2wgYCN4zk4sBqwqAJX5QqdxQ3A=
+		</data>
+		<key>Resources/borrowedHistoryToolbar.pdf</key>
+		<data>
+		mbl9qeSIs3feQPuVlIcpY1t3EIU=
+		</data>
+		<key>Resources/borrowedHistoryToolbarMavericks.pdf</key>
+		<data>
+		oP8LjldtNsz82CwuJP4QJDQhYco=
+		</data>
+		<key>Resources/ca.tiff</key>
+		<data>
+		RTdnFKEBv2S+B43RhpqO55JhrlY=
+		</data>
+		<key>Resources/calendar.tiff</key>
+		<data>
+		GcuIBikF/A0ZvHsD77K876JJmD4=
 		</data>
 		<key>Resources/camera.tiff</key>
 		<data>
-		+zuinBGXnG2ti7RlxSNNGMiYac8=
+		+kuCzHrwvnYvOL7iKz+JxQFi7tg=
 		</data>
 		<key>Resources/cameradown.tiff</key>
 		<data>
-		T7prSmgK92IKT7d3/WsO+tg25UU=
+		itkJktN80TI4hPAKXKMYwui+uOU=
 		</data>
-		<key>Resources/checked.png</key>
+		<key>Resources/ch.tiff</key>
 		<data>
-		jy/qTVvmwsmgi+c84ZmCfpkMQrg=
+		FPcP+UPjPLQ3ibMvPUQK/+CQFsM=
 		</data>
-		<key>Resources/cn.png</key>
+		<key>Resources/checked.tiff</key>
 		<data>
-		rAI9b1gVuGwWXu3oZat4crLMmWQ=
+		MNN1meMFVZ/GbJIqG5R6S+3VJ3g=
 		</data>
-		<key>Resources/comboBoxDropDown.png</key>
+		<key>Resources/cn.tiff</key>
 		<data>
-		7kTxPIQ1zlPmNCT5uS+WrC+NKWw=
+		EsM20ng9vhW0c5G7WkrM4udtteM=
+		</data>
+		<key>Resources/comboBoxDropDown.tiff</key>
+		<data>
+		uAdq7C3e5Nlb13JdmrbmBsMbWPo=
+		</data>
+		<key>Resources/compassOpen.tiff</key>
+		<data>
+		Tsq1ELdQrOq1UUiueCMafXAeUvI=
+		</data>
+		<key>Resources/coverflowToolbar.pdf</key>
+		<data>
+		Qvn2/AlUG0YGGQJQ7jlM+hYsfEk=
+		</data>
+		<key>Resources/coverflowToolbarMavericks.pdf</key>
+		<data>
+		CqrQ5fZtNvK524kswcgEeEbT+Mc=
 		</data>
 		<key>Resources/crop.png</key>
 		<data>
-		Ze3Y87RfXwOjtkNtpuRS60lN5to=
+		motwRFa/hkOGoM4IwQhqCSdsbKk=
 		</data>
-		<key>Resources/de.lproj/AboutPanel.nib</key>
+		<key>Resources/de.lproj/AboutPanel.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MVeTOwaPYHw7XbNaHA2u/Id+C5M=
+			irJdO/jIH16ugwg2gcbSn7+dEMc=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/AmazonSettings.nib</key>
+		<key>Resources/de.lproj/AboutPanel.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			M4Tnyr2ogujUR3+WRsITtWTsmJM=
+			lw9Cn07qnN8PacXJNIAeihNRJN0=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/BorrowedBy.nib</key>
+		<key>Resources/de.lproj/AmazonSettings.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j+a9sE+DfaS4nEDw5xjMZWLLRfs=
+			cYdXQC+ZyEpr+jtq5EFFCtLX74w=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/BorrowedHistory.nib</key>
+		<key>Resources/de.lproj/AmazonSettings.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			P8Ot+Dh+onEbjC0ppkoqcXKHLgo=
+			8kBbHQJADnJwgnPaQQ7Ur8Pn6Tg=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/Contribute.nib</key>
+		<key>Resources/de.lproj/BorrowedBy.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			W1UU2/XzRgsyFBTs+vVJSLPfDbY=
+			eQFBL2D22jbWPCCjRFww/8xmA6c=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/ExportPanel.nib</key>
+		<key>Resources/de.lproj/BorrowedBy.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NE6fTix3MljECX1I04IpFyomoIk=
+			+F5wPwViMGUaZfq0/luYMvExwiU=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/ImageCapturePanel.nib</key>
+		<key>Resources/de.lproj/BorrowedHistory.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			95JDtN15enpfGW8+76GzgGF5mbM=
+			Qc44fSMgQ2B/6k8dYfpT0ioloZI=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/ImportPanel.nib</key>
+		<key>Resources/de.lproj/BorrowedHistory.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RpA/kPC3McUv8P65TNdVJ/RdYR8=
+			l4kHsDCsRNqumwkcTjJP4lVqTO8=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/IncrementalID.nib</key>
+		<key>Resources/de.lproj/Contribute.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			C8ppu95Pdk4H+aqgGZ3QhGXJEGY=
+			+Y9A2Ud7THS6lLFoCT+pLQrBfY8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/Contribute.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			c5aGSWFStex/keVej/HI0YcNHfk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/ExportPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			f9cfUteDZKjt0vpKeNYTYz7NiEs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/ExportPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7bST6Pz35UAMvRMocZg+N70Qnjg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/ImageCapturePanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mFpxjNh2PdJP0C3jKQrif8qlQwA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/ImageCapturePanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ck+1ZCmF9jY8HBqRHCRSr8RoyFI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/ImportPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LWSa1i2rYvdK1DMFuBqOyOhnLzc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/ImportPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mSQrcgyWrVE9pUN6Q4uk1eKWTjU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/IncrementalID.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7B49YkQQSQkpiJZwmHloYQ7+l8Q=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/IncrementalID.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NJXEbRgTRrjq98FI9JJlZQaY7Mk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -430,211 +711,419 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			P/TmnPkPb5Au09Y0mRHLAgzRgRw=
+			cjrm/7KgYYM/RX4vtBCHa+jhTSg=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/Mailer.nib</key>
+		<key>Resources/de.lproj/Mailer.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			s0/Eso+byprudVs3Z6NLp1uRsdQ=
+			348eoFSkH/okty4qxqGiixlS/Ow=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/MultiAddPanel.nib</key>
+		<key>Resources/de.lproj/Mailer.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zOtREq3ze41A0TMvh6ztaimOr64=
+			eCB0AFos01Hyz3hj2qj/8QEBnRg=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/MultiEditPanel.nib</key>
+		<key>Resources/de.lproj/MultiAddPanel.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xf2yFPcKng2nnfZBjVh5BbOKaCM=
+			wIQcNPEl300S8FW6rISPYBUksrw=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/Pocketpedia.nib</key>
+		<key>Resources/de.lproj/MultiAddPanel.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			p6DYePUwUMP3uf2DQpoknBe6+JI=
+			U0E+NFytIJzpD8c+dVP631zlBPY=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/PrintPanel.nib</key>
+		<key>Resources/de.lproj/MultiEditPanel.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			onbZVazh3+mg7fRw+3McRn7BD3c=
+			2OeFa7ImWLoQrU+2607R0jwLmU8=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/Registration.nib</key>
+		<key>Resources/de.lproj/MultiEditPanel.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lNBlcxcOnFzTl0KM60RX9iERKNE=
+			aqmKlwJWqWe/aQla+b06nJvLX6E=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/SmartCollectionPanel.nib</key>
+		<key>Resources/de.lproj/Pocketpedia.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eQ8hTbY36PMQrMu+ypjsz8zJKMw=
+			SQnDk+Vy1DLBuG+0o8VOx8YM/IU=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/StatisticsConfigure.nib</key>
+		<key>Resources/de.lproj/Pocketpedia.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Fan997v+kfk8QGfdBIaCyBS1nqE=
+			8E5z3PJxW0IygPgN7UfKJdtzxng=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/WarningSheet.nib</key>
+		<key>Resources/de.lproj/PrintPanel.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QUsh2jmrzUW0/3tcSZITXltJs/E=
+			s1dse47ndMRhILglRvUbZiybgx8=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/WebHeaderViews.nib</key>
+		<key>Resources/de.lproj/PrintPanel.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Z4+JPTYfTLxqiBYwWwVvUYgA0r4=
+			O9E/sZdGLd4ZPYsPfQxn9OlfGxI=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/duplicatesView.nib</key>
+		<key>Resources/de.lproj/Registration.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HY4m+5HjNZnJAiyFuMzuWGMHxjw=
+			+FgtQF/CoNj+dw6/GPQOTl0X+VA=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.png</key>
+		<key>Resources/de.lproj/Registration.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tb3M6Qn4qTKTOxQe9NS4XvqSjKE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/SmartCollectionPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/GkCrtiVmmIGC/kxeV/Os2dhCMk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/SmartCollectionPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ee5bG8UopuNm2OhbEXG4dorpINQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/StatisticsConfigure.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lIR4/mS6q6Vrjxkk0Nj8VX2VkY8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/StatisticsConfigure.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4e3CWD9oPes7EB4C8/wGntNepio=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/WarningSheet.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			O7yg07ZhFEHLoW6SE8afB6dLplk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/WarningSheet.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pdocEIfzD/bfEOkZjXIMOGKuFx8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/WebHeaderViews.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RHelrcnAN+obxcz3PZuKqWK5XWA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/WebHeaderViews.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lNVFQZeSYv/218j4b8jKb+chIrw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/duplicatesView.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ao9uDgOQa/o0WLKG9oAxZXGp7AI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/duplicatesView.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			u0are0jVeQECTfTZJoOMWiqLvp4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.tiff</key>
 		<data>
-		1vNSiH0Cg8qtOjrGNklcVceQ1dQ=
+		5c9MFXdL38V+kLkN1CtqXvl6tmI=
 		</data>
-		<key>Resources/detailsToolbar.png</key>
+		<key>Resources/detailsToolbar.pdf</key>
 		<data>
-		Ad9Es+5c85hfi2ZISaIMgypMegI=
+		Y9Sc+RDtxABaYcO7uLi7otHF804=
 		</data>
-		<key>Resources/detailsToolbarSelected.png</key>
+		<key>Resources/detailsToolbarMavericks.pdf</key>
 		<data>
-		1dtZ5QQnKOlC88gS6ItvcjtoJF0=
+		9QNtdNfKwpJbphBcAsb0rAiMt40=
 		</data>
-		<key>Resources/dk.png</key>
+		<key>Resources/dk.tiff</key>
 		<data>
-		6hVvZw/dEVFWblbRweEAVThNol4=
+		cncNa9R48mU0Dy6h5RjlDtw9quc=
+		</data>
+		<key>Resources/doghouse.tiff</key>
+		<data>
+		hMuHFNsogOWUWTvteTVqiYwMSEw=
 		</data>
 		<key>Resources/doghouseLarge.png</key>
 		<data>
-		F2/w4UMw1mOhB+X+HR676tyPwIg=
+		CmN8hlwfH9/F4kdT3y6IeWupkn8=
 		</data>
-		<key>Resources/editToolbar.png</key>
+		<key>Resources/editStar.tiff</key>
 		<data>
-		cL5TSslke4IG+iuSsYdkL2dB/Rs=
+		cJk/Tcckm+h2pH33vLr6FnFXqhc=
 		</data>
-		<key>Resources/es.lproj/AboutPanel.nib</key>
+		<key>Resources/editStarHalf.tiff</key>
+		<data>
+		9wCnH9M2apvl9nCMnHNE2LMOzdY=
+		</data>
+		<key>Resources/editStarOutline.tiff</key>
+		<data>
+		DRoTwoYzlLCIpJ+dzxhN3DVG/k0=
+		</data>
+		<key>Resources/editToolbar.pdf</key>
+		<data>
+		I/mYf8sr196AEUMRlRoVClriCBc=
+		</data>
+		<key>Resources/editToolbarMavericks.pdf</key>
+		<data>
+		CyyO68v9d03CSIyrm5F5gSDZYHU=
+		</data>
+		<key>Resources/ejectToolbar.pdf</key>
+		<data>
+		HkR2/RB5x4IBFcUGYktGNIIZra4=
+		</data>
+		<key>Resources/ejectToolbarMavericks.pdf</key>
+		<data>
+		lnwwQBeiFui8oVdkxWQrJ1CsuXs=
+		</data>
+		<key>Resources/es.lproj/AboutPanel.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YSE5/K3dFLpP8Q3XPSKDEarVcsk=
+			ouaPxAgjTxN4/6hOP0wilDYRmw4=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/es.lproj/AmazonSettings.nib</key>
+		<key>Resources/es.lproj/AboutPanel.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RwVY6z/z/4HeG69b8Lgu1DCYGeM=
+			FDdlYJUfusG8CP+feoQ04gg3PZg=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/es.lproj/BorrowedBy.nib</key>
+		<key>Resources/es.lproj/AmazonSettings.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			b6MlNzYmAnSXEn2jH0EzPFhMWnM=
+			dEl0RMy83cvOqDmEskUO+OWsgl0=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/es.lproj/BorrowedHistory.nib</key>
+		<key>Resources/es.lproj/AmazonSettings.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MMU1yhXxlWqKS0BuL/X+nYKBTHI=
+			ng0wOUEuVOynCssi3MxK6CZ4t7w=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/es.lproj/Contribute.nib</key>
+		<key>Resources/es.lproj/BorrowedBy.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JX3qrIccUPd75uxOJn1NZf1VsIk=
+			hdmjJ8eQNchp0UEHwa0DfAazm+M=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/es.lproj/ExportPanel.nib</key>
+		<key>Resources/es.lproj/BorrowedBy.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lNw+YV5lM3rC0PAPaInrtTxK4Zc=
+			o5tPjL8oY5uOTjc6+YDttvYjUgo=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/es.lproj/ImageCapturePanel.nib</key>
+		<key>Resources/es.lproj/BorrowedHistory.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GlPIzCvFzrt2DghLtnIZbjAhSTE=
+			L91PUEkFn4pIz9B8vTer1Ahtyrc=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/es.lproj/ImportPanel.nib</key>
+		<key>Resources/es.lproj/BorrowedHistory.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BuPfiMOVZrqFxsjMgukWEJBzOnI=
+			In1VcoeEN/S5pdsDTRHxdHhd3SI=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/es.lproj/IncrementalID.nib</key>
+		<key>Resources/es.lproj/Contribute.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NRHbraY0u+WZi01TKMgc6FK318A=
+			Mcgs/WoiAaARNamRKjO03YWy0TM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/Contribute.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iMvfZhmygR8Hnr9FY5Aleykp7bY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/ExportPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZcL6JLZLCLK3TyDwXHMfCxysYJs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/ExportPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eM0lkTOTumnvBn4ivmvgyGUmgl8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/ImageCapturePanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pADYm3tJ4vFK1NzqI5Z/25QJiI8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/ImageCapturePanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Rzpqdv2NVL2dCWUgnKavKoBOfUs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/ImportPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			urmR426qmUQwcqbmFs979227POw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/ImportPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+xQ6iICsmrMND2eAgs23PIMEPeA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/IncrementalID.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XLeCKXAmWL27m/61ThAaZCk1tVo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/IncrementalID.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3akIqgDuFqNP0lDKix/cfvhkin0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -643,219 +1132,411 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dbQJ8U5i3BYUf+1iNudsKw36jIQ=
+			b/AuuimJAnvpO8VH5b8FPENGiSI=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/es.lproj/Mailer.nib</key>
+		<key>Resources/es.lproj/Mailer.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hSKKuee7yei59Fsl2kjQuuxk4LU=
+			+aBLCoU3m5KVZpCaJ2zjeacN1OE=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/es.lproj/MultiAddPanel.nib</key>
+		<key>Resources/es.lproj/Mailer.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EH4E1oVX0OBCy1+BpTPY+09C4sw=
+			IzOJsOQawjomLlX/fGGrrCVL+uU=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/es.lproj/MultiEditPanel.nib</key>
+		<key>Resources/es.lproj/MultiAddPanel.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hEeyEuRoELDOlMIyV8j1R/DysgM=
+			PPuPh5yy31JDE9Fy4uPNIuUzH/g=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/es.lproj/Pocketpedia.nib</key>
+		<key>Resources/es.lproj/MultiAddPanel.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TTSIxAW59gU+iUMQQVFkABu917E=
+			LDoqGhGM5aZTTozz7FzwCfj3AHs=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/es.lproj/PrintPanel.nib</key>
+		<key>Resources/es.lproj/MultiEditPanel.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			85Z0G3GVCeTJdbglXD93HIhbA/g=
+			yslIosYmL+eFjPZ3xQnfNgWux3o=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/es.lproj/Registration.nib</key>
+		<key>Resources/es.lproj/MultiEditPanel.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+j5U/6I8cNLRFzdcl4OcG8aE4kc=
+			gHYPplWERI534MzBw8ayrDc9PBM=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/es.lproj/SmartCollectionPanel.nib</key>
+		<key>Resources/es.lproj/Pocketpedia.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tEDnpZ0n+ooicpyaL9TGV49P3yM=
+			LWwLLqSCGPTNW7e2iml0/HEJ/0Q=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/es.lproj/StatisticsConfigure.nib</key>
+		<key>Resources/es.lproj/Pocketpedia.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3w60zULh2L2/rzGUlvV4BTqCS5c=
+			arGWIuV3nQ7CRR3ogfm+kJ+pJ6I=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/es.lproj/WarningSheet.nib</key>
+		<key>Resources/es.lproj/PrintPanel.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BqRAih3cqsFEBNJTgjdxx2QHc3I=
+			3tJKiYW0NzCnF5oqHH0sB8++DhM=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/es.lproj/WebHeaderViews.nib</key>
+		<key>Resources/es.lproj/PrintPanel.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UwAum6r3Vzl8x4UoickcfhRpvXg=
+			EPwgFPUlo7QksOrJ9PP99YQ6R94=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/es.lproj/duplicatesView.nib</key>
+		<key>Resources/es.lproj/Registration.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AfryqX9CRIpNxDoLIQmZA0xj3MA=
+			Exz0NGCTEWnXrUan2ivE7B9C78Y=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/es.png</key>
+		<key>Resources/es.lproj/Registration.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Gy/CB3f1ob7yIM/G9BGGjgCSfXA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/SmartCollectionPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SnS/phHGJG3bBAkKSKjYvfCCtEw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/SmartCollectionPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gAFTZD4l4cWY9iu/t+b5taE5Tjs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/StatisticsConfigure.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lIR4/mS6q6Vrjxkk0Nj8VX2VkY8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/StatisticsConfigure.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4e3CWD9oPes7EB4C8/wGntNepio=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/WarningSheet.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fLyNr/j2Ejx6+W5DbbkfyxHvfiI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/WarningSheet.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8eUAa6pP8HyCsUnEfhbnRZE/y60=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/WebHeaderViews.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wStvDZrR+Q7GPeF1uWw9IifAeFw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/WebHeaderViews.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iqhOm4Fh+F48MEllUB7P1xdrRHE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/duplicatesView.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2UDUxBwl1nlz6fgdMh3fzKOjHNA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/duplicatesView.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0fbMv8IN8aE29x6I78QxtRYaBkw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.tiff</key>
 		<data>
-		r7ZlfaaojccAatLJ94a6qRl0ojc=
+		CPbyB4ekzLgDklNsOWp7uZMyzcA=
 		</data>
-		<key>Resources/exportBackup.png</key>
+		<key>Resources/exportBackup.tiff</key>
 		<data>
-		BqHB3eT2XiMc/3QUR6YMkM8w5NI=
+		DjnT6OmG3m2kM6AGiYZKEASWqjU=
 		</data>
-		<key>Resources/exportDotMac.png</key>
+		<key>Resources/exportFTP.tiff</key>
 		<data>
-		Rwt6oA1lEC4ALAit4X+QahE6drk=
+		brm3piTAob1A3QUXBJcc9qTAi2s=
 		</data>
-		<key>Resources/exportFTP.png</key>
+		<key>Resources/exportHTML.tiff</key>
 		<data>
-		AiVh9pMu4lfTCjoMxRIczIApKGA=
+		zldEz1MWw+r8ATOo0ku5MVVS80M=
 		</data>
-		<key>Resources/exportHTML.png</key>
+		<key>Resources/exportPedia.tiff</key>
 		<data>
-		edovjL4NxjqYf59tfXwranB9Ffw=
+		F/mYmhWzVn83Zkq/FcuM+g/iDPQ=
 		</data>
-		<key>Resources/exportText.png</key>
+		<key>Resources/exportText.tiff</key>
 		<data>
-		vHg4TzdkIdQvpatRqJHvwcpdgTc=
+		Fk1oyRMMUH6WAAsnfpHm9WhB2bA=
 		</data>
-		<key>Resources/exportToolbar.png</key>
+		<key>Resources/exportToolbar.pdf</key>
 		<data>
-		B/W79l/o93ytSMMsxNcWj4w0aDM=
+		hxz+LTf6XHNShxvOkIk8XokpgC0=
 		</data>
-		<key>Resources/exportiPod.png</key>
+		<key>Resources/exportToolbarMavericks.pdf</key>
 		<data>
-		9tA1pPnXy8bmwIyrfopxtku/5tc=
+		+V5Z9OVad7Np+MBTme6wKyvaRC0=
 		</data>
-		<key>Resources/fr.lproj/AboutPanel.nib</key>
+		<key>Resources/exportiPod.tiff</key>
+		<data>
+		wjxFpS260bmk4RFYN8Ua5VmeX74=
+		</data>
+		<key>Resources/fi.tiff</key>
+		<data>
+		VAcsGIeJAmaUNUgiO13FZM7bIoc=
+		</data>
+		<key>Resources/folder.tiff</key>
+		<data>
+		EoUVWDTs6LV5pkb3eECcVJOt2h0=
+		</data>
+		<key>Resources/fr.lproj/AboutPanel.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Hdubd5t4pxGhsaZ2/oLc+e5FbvQ=
+			hsAO8yq/ZUOasV5UcvaYT6nSTwc=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/fr.lproj/AmazonSettings.nib</key>
+		<key>Resources/fr.lproj/AboutPanel.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JLVwLvxdzGnO7WEq0g9OPZnRmqc=
+			g868SRsMprIlQ2/EzVF1Kg3tRVI=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/fr.lproj/BorrowedBy.nib</key>
+		<key>Resources/fr.lproj/AmazonSettings.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			T6tPyVQ5JLcZ4apCXa7Q3IlqNFk=
+			c2aelOmdObUzgZ/4yBaHDuIFKJM=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/fr.lproj/BorrowedHistory.nib</key>
+		<key>Resources/fr.lproj/AmazonSettings.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aGHFSVBloanacD0jEb78+aRHm4A=
+			7AqC3NeVj1CwogVORWB/5yLIvdY=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/fr.lproj/Contribute.nib</key>
+		<key>Resources/fr.lproj/BorrowedBy.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gCRHEKeKQ/r1tOLoAvho2dd2aKs=
+			02298T6MYwqjJzuiY+n7FDFW2w4=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/fr.lproj/ExportPanel.nib</key>
+		<key>Resources/fr.lproj/BorrowedBy.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yzCy8tqgpUYjWcqLkiUbu5NaS6Y=
+			p+vB6rx++llJfk3igHnLkNTH2AE=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/fr.lproj/ImageCapturePanel.nib</key>
+		<key>Resources/fr.lproj/BorrowedHistory.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vxWgGQUFEVKOvNBtGQP/k7VD9is=
+			LmdrG4xEq77c5nIKzywQTx+TJQ4=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/fr.lproj/ImportPanel.nib</key>
+		<key>Resources/fr.lproj/BorrowedHistory.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Yl34DgPD/AJRrtzmR7xp600BJT8=
+			+8wTcVwDVbSScIQqsPMNxrX+V18=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/fr.lproj/IncrementalID.nib</key>
+		<key>Resources/fr.lproj/Contribute.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			G2BQElTJmjW8ahhDxNclnsw41GQ=
+			fYk3WxpDQ+dCogDa7rg1d6f2ydw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/Contribute.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			c9alZ6KcN2FNjo/HoZoa7E/WrwI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/ExportPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VPEPzUjhHmB6V41QGrRkzMKU8mw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/ExportPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GdL5q51qKw+TRIj6NCarWMoInC0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/ImageCapturePanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PAw/l3mdPkv2/gU4A1BN0s9aZ18=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/ImageCapturePanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QQmncgTQrul7A6NKXEiHaFOECtc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/ImportPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3dvh3Gv86TgY/vVY5+WWIGeJcUA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/ImportPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gKe2AslCy4Q2GFNy0zUcp+ekMRQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/IncrementalID.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wSvUh0W+xbpgP4XBs65SpMhhHp8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/IncrementalID.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8cBL2IU5TZBnQiO/KJxUEumYbiM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -864,207 +1545,411 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			og/IEBaFeE4oLk+12LxMmNBmV10=
+			x4Sq+Wv8GWI4hdrXuiy75EktW40=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/fr.lproj/Mailer.nib</key>
+		<key>Resources/fr.lproj/Mailer.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tp2LFH5AOgxzFKXWtJc2CRMtGZ8=
+			sZKwJKOxfb/HT2HiwxlUsFe3vbw=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/fr.lproj/MultiAddPanel.nib</key>
+		<key>Resources/fr.lproj/Mailer.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TKmrUjxu+q1P3K9nHpUnqPiLhU4=
+			nFmLzVA963FZctQg43BRQsWUy/Q=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/fr.lproj/MultiEditPanel.nib</key>
+		<key>Resources/fr.lproj/MultiAddPanel.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BBCt8mMObGksP7YWArX32X0GEZ4=
+			N4412A1S+nNKtlGp1PjgcZo90Ao=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/fr.lproj/Pocketpedia.nib</key>
+		<key>Resources/fr.lproj/MultiAddPanel.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OBIEZEuy9EwIrYlQOm5u2vGyczQ=
+			TWFeRQDRyAse8YoHzoMmrKCW3G0=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/fr.lproj/PrintPanel.nib</key>
+		<key>Resources/fr.lproj/MultiEditPanel.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2ddlektlH4SJBSzmSm34SkbZZTk=
+			AmkWjTKfL/I9Q5piKB8XbHrAXrI=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/fr.lproj/Registration.nib</key>
+		<key>Resources/fr.lproj/MultiEditPanel.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cPSQQg2nlLd2AWyeiTYM5jQguUo=
+			yDT8PbPbxDeiNpiaBe+mdOObst0=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/fr.lproj/SmartCollectionPanel.nib</key>
+		<key>Resources/fr.lproj/Pocketpedia.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kmPnnU3yiz/U9g7DIpz2mJr3Z6g=
+			l7fgmXDSKamTtlxNxOW6z38KIg8=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/fr.lproj/StatisticsConfigure.nib</key>
+		<key>Resources/fr.lproj/Pocketpedia.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6maXcxagPVuwOoupkKnsjuGBQLc=
+			5seP4L55gTp2VXKTmAgYfvHuoAc=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/fr.lproj/WarningSheet.nib</key>
+		<key>Resources/fr.lproj/PrintPanel.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hQmgAZmJLhyBgnkhbeYG1WjcBDE=
+			/jgP0GicVhZVRp9ZZTl4VOtNffM=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/fr.lproj/WebHeaderViews.nib</key>
+		<key>Resources/fr.lproj/PrintPanel.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yCairhhn0xcOpVHQaZhgWRt4kks=
+			y9hIHMRUjIDObwZW2yB67NZwHyQ=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/fr.lproj/duplicatesView.nib</key>
+		<key>Resources/fr.lproj/Registration.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EUA0U2825Mis0fsHPdgGyxZrsIw=
+			jXbkawxl0GXOtV5QCplcDySsHes=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/fr.png</key>
+		<key>Resources/fr.lproj/Registration.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LMvVc9/yCKXbCyqPNFYYbI5LoZk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/SmartCollectionPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			B9haImL5LB43COVOZpRtPX2uN+w=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/SmartCollectionPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			59fhBH1XdNDwmm6LZMuYFPPSi1I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/StatisticsConfigure.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lIR4/mS6q6Vrjxkk0Nj8VX2VkY8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/StatisticsConfigure.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4e3CWD9oPes7EB4C8/wGntNepio=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/WarningSheet.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			02dnuSQO77Saz7xfvGHJ/uMgDsE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/WarningSheet.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1PmCqs12Ojn9YxdImU5Mq6UgaoA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/WebHeaderViews.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4qmi/wfPjNHLf1Ch0gSj9XDX8FI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/WebHeaderViews.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Nz+1fxU5hgaKgUj9LohhuHvVDz8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/duplicatesView.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			R2IQz3mdzHf2b7bHE9EKIbGQ0Dk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/duplicatesView.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CYjOysjBNigs4z64b44HIgo3F4U=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.tiff</key>
 		<data>
-		9sQxLe05zO5QXMtvuDxDBb0L7Ps=
+		liIL/2NarAtOAUc6adaGiZy25As=
 		</data>
-		<key>Resources/fullscreenToolbar.png</key>
+		<key>Resources/fullscreenToolbar.pdf</key>
 		<data>
-		TfNzKb+eCm8TF31upG6km6Ir8/o=
+		KhFI+t78+IMnz3ShzQpieuKHLjM=
 		</data>
-		<key>Resources/hk.png</key>
+		<key>Resources/fullscreenToolbarMavericks.pdf</key>
 		<data>
-		gcE3+FBaoReo40WqNG4PuVcuPxE=
+		mDMLFuj4ffgepFmW1tSWZr0Lkbg=
 		</data>
-		<key>Resources/infoToolbar.png</key>
+		<key>Resources/gb.tiff</key>
 		<data>
-		ABKZoqT0JPKdXHDwy3brEeB1++c=
+		Z+JGFKp4Dv0suL04oPa4mTJAAfg=
 		</data>
-		<key>Resources/infoToolbarSelected.png</key>
+		<key>Resources/goldenStar.tiff</key>
 		<data>
-		1dtZ5QQnKOlC88gS6ItvcjtoJF0=
+		m0pZ8dbtiFHwGkwXa38PEUq9w8M=
 		</data>
-		<key>Resources/it.lproj/AboutPanel.nib</key>
+		<key>Resources/goldenStarHalf.tiff</key>
+		<data>
+		Xfhqm5/ZjbFESp6MX/wog+Ks1qc=
+		</data>
+		<key>Resources/goldenStarOutline.tiff</key>
+		<data>
+		I9zYthVHNwRkssEvw88bPhax0hg=
+		</data>
+		<key>Resources/greenLibrary.tiff</key>
+		<data>
+		dVVpw354H/Txawr9Jd3vtQljh1Q=
+		</data>
+		<key>Resources/gridToolbar.pdf</key>
+		<data>
+		TQFLhw9FJr7o6ci/mqrMnxo93Qo=
+		</data>
+		<key>Resources/gridToolbarMavericks.pdf</key>
+		<data>
+		k2g+1Rsb2GuBibXnYXQDdfXeTVE=
+		</data>
+		<key>Resources/hk.tiff</key>
+		<data>
+		VRaoeqWocdi4IdwRC17e2R+qwbM=
+		</data>
+		<key>Resources/it.lproj/AboutPanel.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5XmudWZrmCkOIMJ8aYzXlMc41x4=
+			HA5XYkYlM3pfh2+Yn6mZEaoYjT8=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/AmazonSettings.nib</key>
+		<key>Resources/it.lproj/AboutPanel.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gcn1fsCtWN0hFYT4pd7BRbPFLtw=
+			am+fDD7Nru2eTA0uCpRh7IoRnwo=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/BorrowedBy.nib</key>
+		<key>Resources/it.lproj/AmazonSettings.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HdDe6ppDTsu5TNThN4/p+aNH/pA=
+			C2yXeFVwKgxmqB/LRxobDmNLxIc=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/BorrowedHistory.nib</key>
+		<key>Resources/it.lproj/AmazonSettings.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cx/9A2IAVv35H/WdQ+ihROMOrF0=
+			OBKMAXXgPG3tjf3MUquhebSldIA=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/Contribute.nib</key>
+		<key>Resources/it.lproj/BorrowedBy.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VReKiWo3xgMow5cZ7hbSWnSwH88=
+			E8rhT+A39J0qONKO0eGDW6bDEc4=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/ExportPanel.nib</key>
+		<key>Resources/it.lproj/BorrowedBy.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pw1g7iMEKTTvQVaGQV8QPJgOqGU=
+			V6rh95uhCL3k1E5U4UnMI6wsZlA=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/ImageCapturePanel.nib</key>
+		<key>Resources/it.lproj/BorrowedHistory.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			myCNXWFQnnIL9NovYJd4KSR9ogs=
+			0mI1tumU4R4GFZyMiiqm0VU8slc=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/ImportPanel.nib</key>
+		<key>Resources/it.lproj/BorrowedHistory.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bRgnz7U04SDarEiPBcZs7v8lp9g=
+			mvaDCNBtfIsET/l7vhEIj9w6fo0=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/IncrementalID.nib</key>
+		<key>Resources/it.lproj/Contribute.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GvOLCLCJYMHvaIEqAoAjckHHz8o=
+			OQjXMo38RY/Wqe1bQlh9qVeQqLg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/Contribute.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cVSB9BL19wAeW0KzCG3wEZ48lr0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/ExportPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			f3cnq8H+TtUaE6NAdGin7vrOmvE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/ExportPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			U+oVKY4DUPHFL/21fmKIKhLilkk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/ImageCapturePanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gZ+aIiUq3Q97om5oLRMwi8R01YU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/ImageCapturePanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ueTU/fQY43FWAhiv31esywYd8wM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/ImportPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LJKaAujsazNWyMaDpwhWaYEsc5I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/ImportPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			o4mVwFzBwSeDNLLxKYwHSKssd0w=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/IncrementalID.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LVyMHt00igZimrhZBxNQSuDVnjE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/IncrementalID.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WU2WpwEt7Et6R+PsosbnnN/ePDQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1073,231 +1958,423 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BrP8mqCnWOgwc3POx072tLMPRjs=
+			7T2gO0n0qs6actJ2YBu71KD991c=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/Mailer.nib</key>
+		<key>Resources/it.lproj/Mailer.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			knXg12sBZ58qnkfHVfyZ4s5e55M=
+			2eTlxfNUjzFRwNYBjIjKGT8f4Gs=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/MultiAddPanel.nib</key>
+		<key>Resources/it.lproj/Mailer.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MbYD02cBK1PNaTEt5wyMZvIW8hs=
+			YHpjzqsP5rLXvAsRh8ZLZ+jVH7M=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/MultiEditPanel.nib</key>
+		<key>Resources/it.lproj/MultiAddPanel.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			N2GaJzvWryaIUa6YgvMeK6ys6iM=
+			E3migwH0YCg9mUo1XGjRctT6h6A=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/Pocketpedia.nib</key>
+		<key>Resources/it.lproj/MultiAddPanel.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4O3xldhwtwNIG+BD+OkYTCQTAIE=
+			D9wOHtt+QAqg4I4YFSaibJTeF3Q=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/PrintPanel.nib</key>
+		<key>Resources/it.lproj/MultiEditPanel.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Tz62PipqSm/ZQG9gBmQ/bzwSLzE=
+			noY6eqOG17wBpwcnchkHB5KO3OM=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/Registration.nib</key>
+		<key>Resources/it.lproj/MultiEditPanel.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fkIKs/8Npo4tqLvDGDnnkv7ZMcE=
+			kciTXHaIdfp8XM2KAr7A5tdzOvM=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/SmartCollectionPanel.nib</key>
+		<key>Resources/it.lproj/Pocketpedia.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CPUVlxFjGLX+syV5dU43kVbaSsE=
+			9NH7Q3+BxUWYoTaynEAH8+8qVh4=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/StatisticsConfigure.nib</key>
+		<key>Resources/it.lproj/Pocketpedia.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tLPQkXeV7KtQ88PfsgOQBMvW5AY=
+			A+LyUd6ZjJ1VEhSWeHCVHZJ/uAs=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/WarningSheet.nib</key>
+		<key>Resources/it.lproj/PrintPanel.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VQ85QHmv+pLXZjnKdHX20vF9HqU=
+			HWC0PICS4c9IGg30M8NUs6B9Ixc=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/WebHeaderViews.nib</key>
+		<key>Resources/it.lproj/PrintPanel.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sNEs3WJyek4ppfW3jTaPxXTSl44=
+			quKKQiBy6JNwLSKDY0UXkpngt9k=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/duplicatesView.nib</key>
+		<key>Resources/it.lproj/Registration.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nUyHv/nLDiwmuKCoyRQth9kK3Kc=
+			2yL2/kOG+vqDD+sRS/fXW+uvdxM=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.png</key>
+		<key>Resources/it.lproj/Registration.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HWWUeRbtzSWS/9vVUEqGrdNB1jU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/SmartCollectionPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oddSn+wkbjW6aNSA3x6hkd2tw+g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/SmartCollectionPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8LDV2qdPpKWyoprGVabBYzvOaTE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/StatisticsConfigure.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lIR4/mS6q6Vrjxkk0Nj8VX2VkY8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/StatisticsConfigure.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4e3CWD9oPes7EB4C8/wGntNepio=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/WarningSheet.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			e2AtmGPV7OSBxjsEEOnymtg8Dzg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/WarningSheet.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1B9Ydpnh0pZRAwfJiu93ZQeiHe4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/WebHeaderViews.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SkjJjLSzUxH4xlv7Zvy9BPKk2ME=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/WebHeaderViews.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Rmz61LTiMSUqVhfL73XtmIQzZkQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/duplicatesView.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Kim2HwiFzpNPpTJ1muhLqkKRr58=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/duplicatesView.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1JjozSoaFesa0GnDXNRMOVHAHCk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.tiff</key>
 		<data>
-		VvAh8G22j0gj1V58d339jNA+oD4=
+		Q3IgR4T0ah3ZVUtAjycPgNrZnnw=
 		</data>
 		<key>Resources/jaggedcircle.png</key>
 		<data>
-		hJdXxnBDLOKKCmVIT35NyXhjDeI=
+		auhNxDOJWJugBcP4REa5gvJdhZE=
 		</data>
 		<key>Resources/jaggedcircle3.png</key>
 		<data>
-		CN0X7YcsOdfzsJv/8V8a9HJRyOk=
+		s9FD7q/GesKqWPZQ9l5OM5WofAg=
 		</data>
 		<key>Resources/jaggedcircle4.png</key>
 		<data>
 		bJZkS0YuMSZr71X68lxtBWOpx0k=
 		</data>
-		<key>Resources/jp.png</key>
+		<key>Resources/jp.tiff</key>
 		<data>
-		0cZ/nZj4SfITkt0f62p//exbwGA=
+		cis8K1jEOdbuWe4iDqSplPyTt30=
 		</data>
-		<key>Resources/largeframe.tif</key>
+		<key>Resources/largeframe.tiff</key>
 		<data>
-		kHqvSRByDalH82pyVr03+q+uF8g=
+		GgoGHse62RZbgeMG9mhsEIWyybI=
+		</data>
+		<key>Resources/library.tiff</key>
+		<data>
+		Uda/Hqr8XvgH/6TaN+tRKV/fp+U=
+		</data>
+		<key>Resources/libraryExcluded.tiff</key>
+		<data>
+		yMs0G4sgXVcUPUqMfEmBpR0YRI8=
 		</data>
 		<key>Resources/license.rtf</key>
 		<data>
 		qj1XdcU9/I288UPKbizDBU7BtUQ=
 		</data>
-		<key>Resources/linksToolbar.png</key>
+		<key>Resources/linksToolbar.pdf</key>
 		<data>
-		wzPPb0pBnSLuUoB2WtsWPARN8YA=
+		pzjpE6DnOh/maRIa4ijfGodQdtg=
 		</data>
-		<key>Resources/linksToolbarSelected.png</key>
+		<key>Resources/linksToolbarMavericks.pdf</key>
 		<data>
-		nNybmMUQIg+4cBhyXSgJeVF0z0w=
+		4wFvFCPAu4DzxwUi2VbKcgOZL74=
 		</data>
-		<key>Resources/menuplugin.png</key>
+		<key>Resources/listToolbar.pdf</key>
 		<data>
-		f7tkIWUYaP57KlRy9qTLoUe3Rqg=
+		JpvPpMpP7Ag/6CZIwnMlewT4dGU=
 		</data>
-		<key>Resources/multipleAddToolbar.png</key>
+		<key>Resources/listToolbarMavericks.pdf</key>
 		<data>
-		X8BgjNCPf3z+gHYosEO6tPXCZSQ=
+		1dqjRY2Ao2oZEzmDPR2dK/Ey31Q=
 		</data>
-		<key>Resources/nl.lproj/AboutPanel.nib</key>
+		<key>Resources/menuplugin.tiff</key>
+		<data>
+		QcyXyEiooQKh6v6xQBR5NMYH7lg=
+		</data>
+		<key>Resources/nl.lproj/AboutPanel.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1ObdyQnMCAkkuK2MnSVsHu5hgrY=
+			XaSGC1C3dol0a2n17RQQU4L1SUA=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/nl.lproj/AmazonSettings.nib</key>
+		<key>Resources/nl.lproj/AboutPanel.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MajI8Z4DqnnaIY0NgCsZ9m0qcJg=
+			/vz9mcQQjElatTfaXufilCDEuig=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/nl.lproj/BorrowedBy.nib</key>
+		<key>Resources/nl.lproj/AmazonSettings.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JF4t7uKpu2B7jNAUEvtbMcrawqA=
+			ecMUU8FhRDPwLZ5DK7Z/swDxrA8=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/nl.lproj/BorrowedHistory.nib</key>
+		<key>Resources/nl.lproj/AmazonSettings.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wyXeKLETxsztFzDc48YE9RnBxU4=
+			16IHBRxy9DvkdKwJnV/pysQXPig=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/nl.lproj/Contribute.nib</key>
+		<key>Resources/nl.lproj/BorrowedBy.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UUxrL0+oOEd05SuNdnp1vdn8Alc=
+			KYmPLBtR6/j4jVk6A3T95EUViV8=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/nl.lproj/ExportPanel.nib</key>
+		<key>Resources/nl.lproj/BorrowedBy.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5aZomAUNpj0SNtT0J45wI/zQtH0=
+			GDODOGlUhm904c6S4oLl/Hky2o4=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/nl.lproj/ImageCapturePanel.nib</key>
+		<key>Resources/nl.lproj/BorrowedHistory.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2bWo1+ctfHyHxbo02h4GP1e6ods=
+			0gDhQjbKYc4aRhSwjrrvQnnasVo=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/nl.lproj/ImportPanel.nib</key>
+		<key>Resources/nl.lproj/BorrowedHistory.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cIEPOtwF1hDiGrGZDptSx6q9uP0=
+			GDJt176zvGsryca2rNGd9P/vcSo=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/nl.lproj/IncrementalID.nib</key>
+		<key>Resources/nl.lproj/Contribute.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mUh7qtximWuugamXitunYP4CXv0=
+			nL2qbRhVtbzyMztO1ljbWroTaJU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/Contribute.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zqYp+8H97EF/Bk6/BxEDJ2ec02A=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/ExportPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+GUybbFDNjIYbt2yToS9iI16EQs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/ExportPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Tns2UlgYOXFNys5Ga/Oh8AIgCSc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/ImageCapturePanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5OMexsIes4hMDSLv9kAlAQw+SwU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/ImageCapturePanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WOkXwUwt5ApJFO53UXWsdojoZJs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/ImportPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8hAFRvL25i0HUwyzODxJY4CoLww=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/ImportPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jx8hcEy9AVWrmtN3/LYGFLUojhs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/IncrementalID.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2gwdP50nzog9xJ8pwfEj0PJfs6g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/IncrementalID.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ErVwOXJwyikhWboKodh7u7vy18E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1306,229 +2383,3353 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KImfRFXvyin2pc33Y3fTbsIxizY=
+			D4D0OuH2J2sDAutJFHjc5mCvUdY=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/nl.lproj/Mailer.nib</key>
+		<key>Resources/nl.lproj/Mailer.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vAkvYRT933cVSHHgieMadb+ef8o=
+			kEx85rgspr7hYuWvbikX9aLONFg=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/nl.lproj/MultiAddPanel.nib</key>
+		<key>Resources/nl.lproj/Mailer.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			b3PyL4DaQuyHqUgJ7InZ8ictQvw=
+			lIuDcQQ07moFrz4pesG5Yub2U8Y=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/nl.lproj/MultiEditPanel.nib</key>
+		<key>Resources/nl.lproj/MultiAddPanel.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kl7qeZpL4HrxEDlGamIYPX+u/K0=
+			3E6DLI8A5d/Ka0MzyO7egIW/UEs=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/nl.lproj/Pocketpedia.nib</key>
+		<key>Resources/nl.lproj/MultiAddPanel.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			i34Tq6mbvA9VbWHWU8eDvZChf74=
+			dKEudXddFvMvaRXZrfSZw7Trokk=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/nl.lproj/PrintPanel.nib</key>
+		<key>Resources/nl.lproj/MultiEditPanel.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LLXSVwdJ2vKSDWFgQyJosmZsfPw=
+			6yhBgf2IUenVfWiaXM8bYnBZzRQ=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/nl.lproj/Registration.nib</key>
+		<key>Resources/nl.lproj/MultiEditPanel.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7XAWlA6MjQgQ0CoXe7PMovysr10=
+			OzQTAWqkFNZEt7MvrpNuGEalRDg=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/nl.lproj/SmartCollectionPanel.nib</key>
+		<key>Resources/nl.lproj/Pocketpedia.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rSoMgIYhF8/ovTT6FcRWH+HaoOA=
+			nKCff7j7M1ZByD3ptOaKX+wGHbk=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/nl.lproj/StatisticsConfigure.nib</key>
+		<key>Resources/nl.lproj/Pocketpedia.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oIhkgB8VL8XngVa8uXUurYAYuCY=
+			9MCEeph1qfBYj1Yu42NY8xauI64=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/nl.lproj/WarningSheet.nib</key>
+		<key>Resources/nl.lproj/PrintPanel.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NBYgrhHBvlSlyr4cyDRPQA07xZM=
+			ix3xG2HdWJ3CU6p3bBEIIVzuw4A=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/nl.lproj/WebHeaderViews.nib</key>
+		<key>Resources/nl.lproj/PrintPanel.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xcp0dJgoOvgua0qcrg0ItKhX628=
+			lYlYSf1sMuHLdWpwDDtAiWK55Wc=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/nl.lproj/duplicatesView.nib</key>
+		<key>Resources/nl.lproj/Registration.nib/designable.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VwlZKz1e4PYugFh5Pr8E44DNrQc=
+			4zBG9y10+JZgF+eNlESZHwfmVM0=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/nl.png</key>
+		<key>Resources/nl.lproj/Registration.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AneUoCzgmTSnjrPgnLTgPxK88tA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/SmartCollectionPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tbCQRvv/cIMFePepcOJ9CTLhbFE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/SmartCollectionPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			41W/ZzeWFsbGbGpsLfY3tmwY2Yw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/StatisticsConfigure.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lIR4/mS6q6Vrjxkk0Nj8VX2VkY8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/StatisticsConfigure.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4e3CWD9oPes7EB4C8/wGntNepio=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/WarningSheet.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZAzgtQs6zqGaZuBEXLAKqJVPDRA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/WarningSheet.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pVSTQ0GRTAXA2uy0BN4S5xl0jbY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/WebHeaderViews.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IfaBAgVfwVRUsALDNfxHhxskJOE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/WebHeaderViews.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			59kuAgaHMrmIoWXpKVnfuTqWDrs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/duplicatesView.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TjXBL+7ojFYVFptFyCC426741k0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/duplicatesView.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rvXBmE5Ykkp5XdtCb7f7IyNkEwo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.tiff</key>
 		<data>
-		Va7YjK142PZTSh7L5MPQDP2K5zM=
+		aP7XjfWQ9LUWdTwprPiki3ha4/o=
+		</data>
+		<key>Resources/no.tiff</key>
+		<data>
+		OoUkZO2c0ixkQe9uBvLkvjTKYBo=
 		</data>
 		<key>Resources/nocrop.png</key>
 		<data>
-		PXzkypbZkWMVuOOsTDApQnuH8Fo=
+		Y+mkpmIfKjwonrSgNko84qjq4Hw=
 		</data>
-		<key>Resources/playToolbar.png</key>
+		<key>Resources/paperclip.tiff</key>
 		<data>
-		gzaVQAhczRNvLFfiFA/uvzRsRCg=
+		E6CNzvx4hs2ccP9iuACnirRbO1M=
 		</data>
-		<key>Resources/prefAddEdit.png</key>
+		<key>Resources/playToolbar.pdf</key>
 		<data>
-		eeG8VVuDCZLINguVb/0E8QhfdV0=
+		ToGrJZaQNChzEeNE14W8ZQptX20=
 		</data>
-		<key>Resources/prefInfo.png</key>
+		<key>Resources/playToolbarMavericks.pdf</key>
 		<data>
-		4Ov5Kfj2BFkHNkSXrp2U1ds9FDE=
+		vLWaT0BcahmTY/h95PCqeHaO5Us=
 		</data>
-		<key>Resources/prefautofill.png</key>
+		<key>Resources/prefAddEdit.tiff</key>
 		<data>
-		kLoyoCL7cdZTI4CgE2Va7KM0V5I=
+		GG9rk++qT8D0QAHrOUcVxZT+v4g=
 		</data>
-		<key>Resources/prefdrawer.png</key>
+		<key>Resources/prefautofill.tiff</key>
 		<data>
-		GqQOn42FpsUZjzFy/PJfiwmC94Q=
+		9vAzMDYLPSo3K+fPeudoNdjDHPk=
 		</data>
-		<key>Resources/prefemail.png</key>
+		<key>Resources/prefemail.tiff</key>
 		<data>
-		5jfhVSC/Isqs+Lav5mzoekbbEDg=
+		whzdIN1D1PzeRSm5KcMgLG4BsTg=
 		</data>
-		<key>Resources/prefgeneral.png</key>
+		<key>Resources/prefgeneral.tiff</key>
 		<data>
-		xEErZbGUl56BtedlQSyTV1G2nJw=
+		KCKi1SgytG4HMc+Biw1tNQCeKus=
 		</data>
-		<key>Resources/prefplugin.png</key>
+		<key>Resources/prefplugin.tiff</key>
 		<data>
-		5gh9dznn1FEHAS+KbPRQfTe4f6E=
+		EUIsq1ef2KUAlLapNiH3hS8e1w0=
 		</data>
-		<key>Resources/prefsPlugin.png</key>
+		<key>Resources/prefsPlugin.tiff</key>
 		<data>
-		D2Acdc1919A2BzBDONsG/ezDeb0=
+		ma8amU7VCnnJDzKBR17DyA+tWN8=
 		</data>
-		<key>Resources/prefstyle.png</key>
+		<key>Resources/prefstyle.tiff</key>
 		<data>
-		pKzR8VqaemZpFGgYqMYGo3Gjbls=
+		UwEfjE442HYREsPD87VWpvY3vVk=
 		</data>
-		<key>Resources/printToolbar.png</key>
+		<key>Resources/printToolbar.pdf</key>
 		<data>
-		381ett4poO5ecfv0BorGDYyTrQc=
+		Vjl3++gcmO7a30GqgHOEZnKzkqM=
 		</data>
-		<key>Resources/removeToolbar.png</key>
+		<key>Resources/printToolbarMavericks.pdf</key>
 		<data>
-		SC2+2TIb6/EDiaevox/0ESmhoWQ=
+		xe4p1srKI+615R3KFsW7LU88+n0=
 		</data>
-		<key>Resources/rotateRight.tiff</key>
+		<key>Resources/pt.tiff</key>
 		<data>
-		2qQG236kqDFDVJtJYrRUbhvr6A0=
+		8+2UzG0HIkIPK4ZrTGUwYQb5BPE=
 		</data>
-		<key>Resources/se.png</key>
+		<key>Resources/quickLogo.png</key>
 		<data>
-		l//58E6YRh7bsFn2Q2N8yc16Z0I=
+		FwLtNHlurroPe4wE9911UctHJfU=
+		</data>
+		<key>Resources/quicklogo@2x.png</key>
+		<data>
+		q9WR16PPeRaEiWmUBqc0Qs5Vu7A=
+		</data>
+		<key>Resources/removeToolbar.pdf</key>
+		<data>
+		nEImjZho4qhi/p+7GayqgxhOr+0=
+		</data>
+		<key>Resources/removeToolbarMavericks.pdf</key>
+		<data>
+		3bgl9dFmQWoMH80Q9m4SaGXwSHg=
+		</data>
+		<key>Resources/ru.tiff</key>
+		<data>
+		nXFDEpR3J2jmq/qPCjpey38ey6U=
+		</data>
+		<key>Resources/scanDiscToolbar.pdf</key>
+		<data>
+		TAijyrNU78bOf25fZExsJDU54VI=
+		</data>
+		<key>Resources/scanDiscToolbarMavericks.pdf</key>
+		<data>
+		TAijyrNU78bOf25fZExsJDU54VI=
+		</data>
+		<key>Resources/se.tiff</key>
+		<data>
+		TRbTLZU5hYeVT7mjtaywsPAWm8o=
 		</data>
 		<key>Resources/sedcommands.txt</key>
 		<data>
 		osOpr3xBgrF3yzAC1n0jmUFjeM8=
 		</data>
-		<key>Resources/smallframe.tif</key>
+		<key>Resources/sharedlibrary.png</key>
+		<data>
+		jv4/bXnbXTsFUK2ZyveJSLrimbY=
+		</data>
+		<key>Resources/smallframe.png</key>
 		<data>
 		QMPA+fAgnV436oeZcU1QP5G8IWU=
 		</data>
-		<key>Resources/smartCollectionMinus.png</key>
+		<key>Resources/smartCollectionMinus.tiff</key>
 		<data>
-		oecy1h5jBij1S7hFSr1tz5X/e7U=
+		mcSZcBnVjobeI5/lydJ3+8KJNXk=
 		</data>
-		<key>Resources/smartCollectionPlus.png</key>
+		<key>Resources/smartCollectionPlus.tiff</key>
 		<data>
-		vvNrHZj71D+q6kQf86Pylbyg6Dg=
+		FsuLTp7B1N+bg2ObLg02nmoYI/w=
 		</data>
-		<key>Resources/splitViewDot.png</key>
+		<key>Resources/star.tiff</key>
 		<data>
-		Z7Ol9q6mubTLYGAfFXHPH+gKJlI=
+		1F45OIOA5qMIoacUYYbU/zOjEIM=
+		</data>
+		<key>Resources/starHalf.tiff</key>
+		<data>
+		N5qkWxUIiw9kRrBZB99SqouH4No=
 		</data>
 		<key>Resources/statistics.html</key>
 		<data>
-		K8Ccssc+IeYCg+gRSmg+WnYynrc=
+		6KjBduiIjew/V8m+Zr97jSTUO1g=
 		</data>
-		<key>Resources/statsToolbar.png</key>
+		<key>Resources/statsToolbar.pdf</key>
 		<data>
-		qq0XMhScFbZ4Vc8pftIsyemONcw=
+		/Me3xi37lpJZuDtJT3Tccq2ze3I=
 		</data>
-		<key>Resources/statsToolbarSelected.png</key>
+		<key>Resources/statsToolbarMavericks.pdf</key>
 		<data>
-		+OVSS6/oCMvzaw57ixnXPhrnJbo=
+		s3Z0Sf7dGLHmQPSp+RJnO3w4QvE=
 		</data>
-		<key>Resources/uk.png</key>
+		<key>Resources/successBell.aiff</key>
 		<data>
-		HZb5TT3HTi/LCHSOiQzvXm/kcC8=
+		KimkDaTVNJqLCX76N5jvP73R+AA=
 		</data>
-		<key>Resources/un.png</key>
+		<key>Resources/uk.tiff</key>
 		<data>
-		yfRqWbhiqW2hZK2KTiQBL1gY64Y=
+		vYxyGf3+dIIIsjtPkpl9P2h4y78=
 		</data>
-		<key>Resources/unchecked.png</key>
+		<key>Resources/un.tiff</key>
 		<data>
-		JrkoiVHSsQ13IgaCRRv2iEE9H8s=
+		LvCdUJOUf0jotJzEYVhwp23kLCw=
 		</data>
-		<key>Resources/urlToolbar.png</key>
+		<key>Resources/unchecked.tiff</key>
 		<data>
-		5tr6NG2lui21lFePYxVNTn3r6G8=
+		B5BVPeo30XZfsq8oFsjZYKzJjDc=
 		</data>
-		<key>Resources/us.png</key>
+		<key>Resources/urlToolbar.pdf</key>
 		<data>
-		LLTw196PWUM+8M8OSuJT/syGBYw=
+		yfJlG/X7ORewvO79cZJn/Ahn7AQ=
 		</data>
-		<key>Resources/warning.png</key>
+		<key>Resources/urlToolbarMavericks.pdf</key>
 		<data>
-		3zv1VbqF7cqw+H8HejU/PKrgkqo=
+		wpf5kRMklaUZfVg5RRVTsXcumsI=
+		</data>
+		<key>Resources/us.tiff</key>
+		<data>
+		Eyux2k3E1qLhp8PWEwDpzydubls=
+		</data>
+		<key>Resources/usedHistoryToolbar.pdf</key>
+		<data>
+		woJQ+zPBiaIwYcGYFo2FYUxu6z0=
+		</data>
+		<key>Resources/usedHistoryToolbarMavericks.pdf</key>
+		<data>
+		5XSzYAAkVo6LoHYguF2KDFex/tM=
+		</data>
+		<key>Resources/warning.tiff</key>
+		<data>
+		TD/8+80jKApvWtYPjQHCa5EUGoU=
+		</data>
+		<key>Resources/wishlist.tiff</key>
+		<data>
+		KD8RYfXXcbwwf1m/+FnTp6jB65g=
+		</data>
+	</dict>
+	<key>files2</key>
+	<dict>
+		<key>Headers/AutoFillTableView.h</key>
+		<data>
+		Zus36eNZSKwR7v0+sYE4yfZHyO4=
+		</data>
+		<key>Headers/MOCollection.h</key>
+		<data>
+		VSTbVyrJJuEps1wBjcewmHwKFkI=
+		</data>
+		<key>Headers/MOEntry.h</key>
+		<data>
+		83wtWjlOCkKxzDaDryYGTPdmUOw=
+		</data>
+		<key>Headers/MOLink.h</key>
+		<data>
+		zwosXw22nSAsyTH+YZ4pIqzt7iY=
+		</data>
+		<key>Headers/MyAboutPanel.h</key>
+		<data>
+		bNxNZMV6C2LjltVYLasw+jxuHa8=
+		</data>
+		<key>Headers/MyAddressBook.h</key>
+		<data>
+		LrSvZxm8gP441UfP+RtSb3MZaNI=
+		</data>
+		<key>Headers/MyAmazon.h</key>
+		<data>
+		6TvUQUwX9pP9swYQfnNnb72WqpQ=
+		</data>
+		<key>Headers/MyBarcodeScanner.h</key>
+		<data>
+		vAB0vX5JR+EqYLmv97iRfvyUvY4=
+		</data>
+		<key>Headers/MyBezelDisplay.h</key>
+		<data>
+		aQ2sJimbbzi3zuEHsIwkkXbtNDo=
+		</data>
+		<key>Headers/MyBluetoothScanner.h</key>
+		<data>
+		3X2q9QXRl7zbqbFtWsbykNx9nms=
+		</data>
+		<key>Headers/MyCalendarButton.h</key>
+		<data>
+		IS4Dx2wUywLmdcu4bhFspDWWec0=
+		</data>
+		<key>Headers/MyCalendarView.h</key>
+		<data>
+		JnQCtHRmr0+c236R+oTH5JRABrA=
+		</data>
+		<key>Headers/MyCollectionTableView.h</key>
+		<data>
+		uucALijN0JW/E8cnAcCxHEknQnw=
+		</data>
+		<key>Headers/MyComboBoxDataShared.h</key>
+		<data>
+		gJoFj3T2BgUXKxRV4dBKyFg1ZOM=
+		</data>
+		<key>Headers/MyConstants.h</key>
+		<data>
+		AMS/OLgrxDYkzVJqbP/cHXwohyw=
+		</data>
+		<key>Headers/MyControllerShared.h</key>
+		<data>
+		dKGRUbklbhs1j+B/vyCLDRwF3Zg=
+		</data>
+		<key>Headers/MyCoverView.h</key>
+		<data>
+		t8fjiM2YtZ6klg2KqDAREsdl4ms=
+		</data>
+		<key>Headers/MyCreditsData.h</key>
+		<data>
+		vZrTWduH4wV8/FgaIV99d/2TkP8=
+		</data>
+		<key>Headers/MyEpub.h</key>
+		<data>
+		RfhBCcPwQyi9OAwcKyNmVW8Yp4o=
+		</data>
+		<key>Headers/MyExtensions.h</key>
+		<data>
+		EA7KZxZsEkP+LQ6qwtAFsbGZ8o4=
+		</data>
+		<key>Headers/MyFieldsControllerShared.h</key>
+		<data>
+		jMeXMvQ3d7j/jqDHugLLGze7zFE=
+		</data>
+		<key>Headers/MyFunctionsShared.h</key>
+		<data>
+		9A4JpD/XPzUBE9BQJX6pfQb298k=
+		</data>
+		<key>Headers/MyImageCapture.h</key>
+		<data>
+		39LvWuv5m7u0khg4IghokOjIaPk=
+		</data>
+		<key>Headers/MyImport.h</key>
+		<data>
+		Of0K9jerhbJ3/AFxy/Wz0fN5xWE=
+		</data>
+		<key>Headers/MyIncrementalID.h</key>
+		<data>
+		/24OMKFSPAG3jQhbx0lw7jp69O0=
+		</data>
+		<key>Headers/MyInternetSearchPanel.h</key>
+		<data>
+		CtgNH53ensErixgTaFDPv13UylQ=
+		</data>
+		<key>Headers/MyLinksManager.h</key>
+		<data>
+		GxkgQZeWALVOTLCpl7FWtm9aCr4=
+		</data>
+		<key>Headers/MyLlave.h</key>
+		<data>
+		XhKuLR9wduH/fWgmNlYMiiZLEmk=
+		</data>
+		<key>Headers/MyMainWindow.h</key>
+		<data>
+		5eVcsuaUiFUVC+irGF24xzmnf2s=
+		</data>
+		<key>Headers/MyMenuItem.h</key>
+		<data>
+		FBGX2+tzsVC580Kz6Q68kZ99Gfw=
+		</data>
+		<key>Headers/MyMoreDrawer.h</key>
+		<data>
+		c2x4+VGs/oFPqE8ojU0soh93S18=
+		</data>
+		<key>Headers/MyPanel.h</key>
+		<data>
+		CG3L58XSDohhT8LrUCbOh45R7Ek=
+		</data>
+		<key>Headers/MyPediaPlugin.h</key>
+		<data>
+		nl2sR+JDtM84f+nmdF3P60u8Ga4=
+		</data>
+		<key>Headers/MyPluginManager.h</key>
+		<data>
+		SB7KznNEagRKK6LILiddvxbM6fE=
+		</data>
+		<key>Headers/MyPreferencesShared.h</key>
+		<data>
+		d9Qwg7eaANwSmemyUrCGf57+W5k=
+		</data>
+		<key>Headers/MyPrint.h</key>
+		<data>
+		gx6aF8qm3eNy5EUe/kdIIbz2A7Y=
+		</data>
+		<key>Headers/MyQuickTimeParser.h</key>
+		<data>
+		soglJS+/1JMamNkZ+wCmUZQE0E4=
+		</data>
+		<key>Headers/MyRatingImageCell.h</key>
+		<data>
+		EnKx3br34UyZ8LHbp9QKOMe53Ds=
+		</data>
+		<key>Headers/MyRatingView.h</key>
+		<data>
+		7CfLFkGN+7rW/mwS07rhdmTk6Ek=
+		</data>
+		<key>Headers/MyRemoteControl.h</key>
+		<data>
+		OSwc0UPZDNFTYXRq7wvaLNG6mE8=
+		</data>
+		<key>Headers/MySmartCollection.h</key>
+		<data>
+		SnTQSnshOFlaCZu5pcQMHwHgrpA=
+		</data>
+		<key>Headers/MyStatistics.h</key>
+		<data>
+		OhiGGV4uihU1pKTdY1X1GpzJ+24=
+		</data>
+		<key>Headers/MyTableView.h</key>
+		<data>
+		EqB79QWsEWkmDe39DsH9RGSxv00=
+		</data>
+		<key>Headers/MyTracksData.h</key>
+		<data>
+		EjQmewX3WUmSP8rvKjQyS9+0aKE=
+		</data>
+		<key>Headers/MyUpdate.h</key>
+		<data>
+		7Y40jD1Rin6Ot6Xfckr7jwV59B0=
+		</data>
+		<key>Headers/MyWarningSheet.h</key>
+		<data>
+		T7sw7vtKvNo0wK3scITgjUEen70=
+		</data>
+		<key>Headers/MyWebView.h</key>
+		<data>
+		mYy9M7ttOUagJLODEavFYoIC1NI=
+		</data>
+		<key>Headers/NSObject+SBJson.h</key>
+		<data>
+		dkKfUMKmDHv+/ZWXwZKhJb+fNA4=
+		</data>
+		<key>Headers/iTunesScriptingBridge.h</key>
+		<data>
+		+DLzpfio+Ijm2h+auKDHe5CqnqA=
+		</data>
+		<key>Headers/opn_interface.h</key>
+		<data>
+		ymupOUr3CXjHkGcJdu0iUIqYPLk=
+		</data>
+		<key>Resources/DVDPlayer.applescript</key>
+		<data>
+		AAwVskd8wXFQf53BFVHkT/s3Np0=
+		</data>
+		<key>Resources/English.lproj/AboutPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xh/2j2ykxpwGdKkbEn3wK+M2jqk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/AboutPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eqxEKXO5u2Kf6t8aMTE3lBwhh8k=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/AmazonSettings.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VIL3UGp7fHDTRNOcqItwy+1JkwI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/AmazonSettings.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CV10hJFawTJZyxejNlg7TtfFPmA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/BorrowedBy.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RpMdJG+Ogh+3kQmZVoUiJKD7Yt8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/BorrowedBy.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yQBtHq6bCM876w3OTN6ceD1GmJA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/BorrowedHistory.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			46jlGVUNLh8VvW7uoX7vmew+9mM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/BorrowedHistory.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3/2jVizYfk+cLyVZwUjVe3hIIuw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/Contribute.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+hV6IgYtvkfK/lvTFnCUjARJHP0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/Contribute.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yZf9TUkcipNdoIFIjxUECgwTXcA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/ExportPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			o4FyWmAS98FlNyBERv4gpRaRjv0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/ExportPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zsnY6F0hgOh0fFOtbStBcQIFM2U=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/ImageCapturePanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			r/YTMJYu86/bwsa4rPZJ9CnRMkw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/ImageCapturePanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kE94ke1+u/nneaglYdBplZ3g098=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/ImportPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OOj5R2PzDPx7JmOB2iCYVo++EgM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/ImportPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7HirX0IktUxETfUqbVX4+0YBI48=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/IncrementalID.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			e95ItsAf2QkMGHQqE4S4xSSuPTk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/IncrementalID.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rf+K+h1LPd5uqtsZ76YLCRfpkJU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			73eh6UZXNESaW7h7Wj0OZwqOk00=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/Mailer.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PhnfwTBR5GWlBIAp+Hs8xxIiwhw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/Mailer.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KKDZH4bYLITl9rr/3+NB87HEi2I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/MultiAddPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			B3MEC6CCZ6FejqCS/Css5rf5iX0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/MultiAddPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xNxC31rg821fhtVkFvrJHvMdk2k=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/MultiEditPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			R6gRGeuExnRAvxMGIvqKRiZzRuI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/MultiEditPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Yv/irKKsfIEIdebJJZf001l1Qf4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/Pocketpedia.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DmlcdYs0u+KOa3oBcNGRhVPx344=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/Pocketpedia.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			M8F8cQuCVOJWM8OlcijOoe6VqLM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/PrintPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xyCtv/maRDf4BYkLU6jPdP6K+QQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/PrintPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tZaT1t4J8yIFENNoBD8WV4k9mB0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/Registration.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gHNeEjhvo3/V9RdpMWwxk/3JOaM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/Registration.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WPEkAEEATzgREH5nHbjQeLZP+WM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/SmartCollectionPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Qt4GPogaW3ImT9/p1XcflGdC0g8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/SmartCollectionPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6ZFwlsLnrgEAVCbmPS04sM7zr/I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/StatisticsConfigure.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lIR4/mS6q6Vrjxkk0Nj8VX2VkY8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/StatisticsConfigure.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4e3CWD9oPes7EB4C8/wGntNepio=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/WarningSheet.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HO/TI+aC0tkQPuLwHSy2Suz9MQ4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/WarningSheet.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			k/e0TrlwaArQ78/9OLvnd6sQJUc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/WebHeaderViews.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4hIyXuUIyShqZnY9HFGYg8SUGFI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/WebHeaderViews.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SAjamIny5Wv5X1SJr9BD7+0icOI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/duplicatesView.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8RCcXeLpL250HTBUrE+L61+GgHM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/duplicatesView.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			L9UhlOY2uADxV8OUV/1fdk+3+Aw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/HTMLEncoding.strings</key>
+		<data>
+		e4mz9rt04BfvHjNbV0NNL/MtyQc=
+		</data>
+		<key>Resources/Info.plist</key>
+		<data>
+		NYNU4kxZcHCdT8UMKxqIShAHrzY=
+		</data>
+		<key>Resources/InfoPlist.strings</key>
+		<data>
+		NYewiZUTZS9OYuk0ue2LxJarfA4=
+		</data>
+		<key>Resources/Morse.aiff</key>
+		<data>
+		7mCwZvz/FplLfEeFBI1tVbGUz0w=
+		</data>
+		<key>Resources/ProAppCircle.png</key>
+		<data>
+		uENp1Ld375jMWnEtdddgPoYGL4U=
+		</data>
+		<key>Resources/ProAppLookBack.png</key>
+		<data>
+		avZQF8xjUPs8ZAR1ZlCRmmufyhk=
+		</data>
+		<key>Resources/QuickTime.applescript</key>
+		<data>
+		DhJ/ZH7pXS9xj3LFDdaaRmdjW0s=
+		</data>
+		<key>Resources/ScannerWindow.nib/designable.nib</key>
+		<data>
+		5jEAcPCDDwfGUCJdKl9pHIwIXtk=
+		</data>
+		<key>Resources/ScannerWindow.nib/keyedobjects.nib</key>
+		<data>
+		sZH1mofo3280VJ1XZjZHeYrOrUY=
+		</data>
+		<key>Resources/VLC.applescript</key>
+		<data>
+		w81kNdQHc/mxjtP+ZbgZp8L97hI=
+		</data>
+		<key>Resources/addManyToolbar.pdf</key>
+		<data>
+		5bptily42heHdush50qWeev7QKk=
+		</data>
+		<key>Resources/addManyToolbarMavericks.pdf</key>
+		<data>
+		+7CTnk8XjykRSc92fGJh6xGAQCs=
+		</data>
+		<key>Resources/addPanelSelected.png</key>
+		<data>
+		IZ3GXr617+spp9XfgdjVpvk5paU=
+		</data>
+		<key>Resources/addToolbar.pdf</key>
+		<data>
+		XULsDcB4XYd86i9iU2nNCgXH+Gc=
+		</data>
+		<key>Resources/addToolbarMavericks.pdf</key>
+		<data>
+		cnMA03qoTZp3d6I7X+w0KE903pM=
+		</data>
+		<key>Resources/address.tiff</key>
+		<data>
+		SOZds0ZmuTRlJbHVdS+HSjmUfgg=
+		</data>
+		<key>Resources/amazonOpen@.png</key>
+		<data>
+		jarj0K2yRoNAUdRvdN5xUjOlYRE=
+		</data>
+		<key>Resources/amazonOpen@2x.png</key>
+		<data>
+		5L3rWU33Mj4Aa55V9uMqcec5eWo=
+		</data>
+		<key>Resources/at.tiff</key>
+		<data>
+		OLuX+ytW3f+pXf0y4zE2enTI68o=
+		</data>
+		<key>Resources/atSign.tiff</key>
+		<data>
+		OP4RN3VED0IGz17l3fO8XbIHYtE=
+		</data>
+		<key>Resources/au.tiff</key>
+		<data>
+		fnl2Pik2yp0SzIs4TIek0t51OnQ=
+		</data>
+		<key>Resources/be.tiff</key>
+		<data>
+		BR1K2mlUKLXVB7Np9wFpWTa5UHk=
+		</data>
+		<key>Resources/blueLibrary.tiff</key>
+		<data>
+		e5HD0X4eeEScgS4epFYpFodGBHg=
+		</data>
+		<key>Resources/bluetooth.tiff</key>
+		<data>
+		jv7oJBlVcB3ORwvUt5FTqXiVbY0=
+		</data>
+		<key>Resources/bluetoothSelected.tiff</key>
+		<data>
+		Uv8z4tbQSQI9HeLgC0Qxnt1jIH0=
+		</data>
+		<key>Resources/borrowToolbar.pdf</key>
+		<data>
+		rn49sWcFKgEnfxrpdTKBZKgnhqk=
+		</data>
+		<key>Resources/borrowToolbarMavericks.pdf</key>
+		<data>
+		2H4EqR7VQXg2LeQt4WMUW+FdGQA=
+		</data>
+		<key>Resources/borrowed.tiff</key>
+		<data>
+		u2wgYCN4zk4sBqwqAJX5QqdxQ3A=
+		</data>
+		<key>Resources/borrowedHistoryToolbar.pdf</key>
+		<data>
+		mbl9qeSIs3feQPuVlIcpY1t3EIU=
+		</data>
+		<key>Resources/borrowedHistoryToolbarMavericks.pdf</key>
+		<data>
+		oP8LjldtNsz82CwuJP4QJDQhYco=
+		</data>
+		<key>Resources/ca.tiff</key>
+		<data>
+		RTdnFKEBv2S+B43RhpqO55JhrlY=
+		</data>
+		<key>Resources/calendar.tiff</key>
+		<data>
+		GcuIBikF/A0ZvHsD77K876JJmD4=
+		</data>
+		<key>Resources/camera.tiff</key>
+		<data>
+		+kuCzHrwvnYvOL7iKz+JxQFi7tg=
+		</data>
+		<key>Resources/cameradown.tiff</key>
+		<data>
+		itkJktN80TI4hPAKXKMYwui+uOU=
+		</data>
+		<key>Resources/ch.tiff</key>
+		<data>
+		FPcP+UPjPLQ3ibMvPUQK/+CQFsM=
+		</data>
+		<key>Resources/checked.tiff</key>
+		<data>
+		MNN1meMFVZ/GbJIqG5R6S+3VJ3g=
+		</data>
+		<key>Resources/cn.tiff</key>
+		<data>
+		EsM20ng9vhW0c5G7WkrM4udtteM=
+		</data>
+		<key>Resources/comboBoxDropDown.tiff</key>
+		<data>
+		uAdq7C3e5Nlb13JdmrbmBsMbWPo=
+		</data>
+		<key>Resources/compassOpen.tiff</key>
+		<data>
+		Tsq1ELdQrOq1UUiueCMafXAeUvI=
+		</data>
+		<key>Resources/coverflowToolbar.pdf</key>
+		<data>
+		Qvn2/AlUG0YGGQJQ7jlM+hYsfEk=
+		</data>
+		<key>Resources/coverflowToolbarMavericks.pdf</key>
+		<data>
+		CqrQ5fZtNvK524kswcgEeEbT+Mc=
+		</data>
+		<key>Resources/crop.png</key>
+		<data>
+		motwRFa/hkOGoM4IwQhqCSdsbKk=
+		</data>
+		<key>Resources/de.lproj/AboutPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			irJdO/jIH16ugwg2gcbSn7+dEMc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/AboutPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lw9Cn07qnN8PacXJNIAeihNRJN0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/AmazonSettings.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cYdXQC+ZyEpr+jtq5EFFCtLX74w=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/AmazonSettings.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8kBbHQJADnJwgnPaQQ7Ur8Pn6Tg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/BorrowedBy.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eQFBL2D22jbWPCCjRFww/8xmA6c=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/BorrowedBy.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+F5wPwViMGUaZfq0/luYMvExwiU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/BorrowedHistory.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Qc44fSMgQ2B/6k8dYfpT0ioloZI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/BorrowedHistory.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			l4kHsDCsRNqumwkcTjJP4lVqTO8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/Contribute.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+Y9A2Ud7THS6lLFoCT+pLQrBfY8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/Contribute.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			c5aGSWFStex/keVej/HI0YcNHfk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/ExportPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			f9cfUteDZKjt0vpKeNYTYz7NiEs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/ExportPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7bST6Pz35UAMvRMocZg+N70Qnjg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/ImageCapturePanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mFpxjNh2PdJP0C3jKQrif8qlQwA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/ImageCapturePanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ck+1ZCmF9jY8HBqRHCRSr8RoyFI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/ImportPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LWSa1i2rYvdK1DMFuBqOyOhnLzc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/ImportPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mSQrcgyWrVE9pUN6Q4uk1eKWTjU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/IncrementalID.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7B49YkQQSQkpiJZwmHloYQ7+l8Q=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/IncrementalID.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NJXEbRgTRrjq98FI9JJlZQaY7Mk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cjrm/7KgYYM/RX4vtBCHa+jhTSg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/Mailer.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			348eoFSkH/okty4qxqGiixlS/Ow=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/Mailer.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eCB0AFos01Hyz3hj2qj/8QEBnRg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/MultiAddPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wIQcNPEl300S8FW6rISPYBUksrw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/MultiAddPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			U0E+NFytIJzpD8c+dVP631zlBPY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/MultiEditPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2OeFa7ImWLoQrU+2607R0jwLmU8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/MultiEditPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aqmKlwJWqWe/aQla+b06nJvLX6E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/Pocketpedia.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SQnDk+Vy1DLBuG+0o8VOx8YM/IU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/Pocketpedia.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8E5z3PJxW0IygPgN7UfKJdtzxng=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/PrintPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			s1dse47ndMRhILglRvUbZiybgx8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/PrintPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			O9E/sZdGLd4ZPYsPfQxn9OlfGxI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/Registration.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+FgtQF/CoNj+dw6/GPQOTl0X+VA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/Registration.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tb3M6Qn4qTKTOxQe9NS4XvqSjKE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/SmartCollectionPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/GkCrtiVmmIGC/kxeV/Os2dhCMk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/SmartCollectionPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ee5bG8UopuNm2OhbEXG4dorpINQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/StatisticsConfigure.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lIR4/mS6q6Vrjxkk0Nj8VX2VkY8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/StatisticsConfigure.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4e3CWD9oPes7EB4C8/wGntNepio=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/WarningSheet.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			O7yg07ZhFEHLoW6SE8afB6dLplk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/WarningSheet.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pdocEIfzD/bfEOkZjXIMOGKuFx8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/WebHeaderViews.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RHelrcnAN+obxcz3PZuKqWK5XWA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/WebHeaderViews.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lNVFQZeSYv/218j4b8jKb+chIrw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/duplicatesView.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ao9uDgOQa/o0WLKG9oAxZXGp7AI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/duplicatesView.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			u0are0jVeQECTfTZJoOMWiqLvp4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.tiff</key>
+		<data>
+		5c9MFXdL38V+kLkN1CtqXvl6tmI=
+		</data>
+		<key>Resources/detailsToolbar.pdf</key>
+		<data>
+		Y9Sc+RDtxABaYcO7uLi7otHF804=
+		</data>
+		<key>Resources/detailsToolbarMavericks.pdf</key>
+		<data>
+		9QNtdNfKwpJbphBcAsb0rAiMt40=
+		</data>
+		<key>Resources/dk.tiff</key>
+		<data>
+		cncNa9R48mU0Dy6h5RjlDtw9quc=
+		</data>
+		<key>Resources/doghouse.tiff</key>
+		<data>
+		hMuHFNsogOWUWTvteTVqiYwMSEw=
+		</data>
+		<key>Resources/doghouseLarge.png</key>
+		<data>
+		CmN8hlwfH9/F4kdT3y6IeWupkn8=
+		</data>
+		<key>Resources/editStar.tiff</key>
+		<data>
+		cJk/Tcckm+h2pH33vLr6FnFXqhc=
+		</data>
+		<key>Resources/editStarHalf.tiff</key>
+		<data>
+		9wCnH9M2apvl9nCMnHNE2LMOzdY=
+		</data>
+		<key>Resources/editStarOutline.tiff</key>
+		<data>
+		DRoTwoYzlLCIpJ+dzxhN3DVG/k0=
+		</data>
+		<key>Resources/editToolbar.pdf</key>
+		<data>
+		I/mYf8sr196AEUMRlRoVClriCBc=
+		</data>
+		<key>Resources/editToolbarMavericks.pdf</key>
+		<data>
+		CyyO68v9d03CSIyrm5F5gSDZYHU=
+		</data>
+		<key>Resources/ejectToolbar.pdf</key>
+		<data>
+		HkR2/RB5x4IBFcUGYktGNIIZra4=
+		</data>
+		<key>Resources/ejectToolbarMavericks.pdf</key>
+		<data>
+		lnwwQBeiFui8oVdkxWQrJ1CsuXs=
+		</data>
+		<key>Resources/es.lproj/AboutPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ouaPxAgjTxN4/6hOP0wilDYRmw4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/AboutPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FDdlYJUfusG8CP+feoQ04gg3PZg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/AmazonSettings.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dEl0RMy83cvOqDmEskUO+OWsgl0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/AmazonSettings.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ng0wOUEuVOynCssi3MxK6CZ4t7w=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/BorrowedBy.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hdmjJ8eQNchp0UEHwa0DfAazm+M=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/BorrowedBy.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			o5tPjL8oY5uOTjc6+YDttvYjUgo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/BorrowedHistory.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			L91PUEkFn4pIz9B8vTer1Ahtyrc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/BorrowedHistory.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			In1VcoeEN/S5pdsDTRHxdHhd3SI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/Contribute.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Mcgs/WoiAaARNamRKjO03YWy0TM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/Contribute.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iMvfZhmygR8Hnr9FY5Aleykp7bY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/ExportPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZcL6JLZLCLK3TyDwXHMfCxysYJs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/ExportPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eM0lkTOTumnvBn4ivmvgyGUmgl8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/ImageCapturePanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pADYm3tJ4vFK1NzqI5Z/25QJiI8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/ImageCapturePanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Rzpqdv2NVL2dCWUgnKavKoBOfUs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/ImportPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			urmR426qmUQwcqbmFs979227POw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/ImportPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+xQ6iICsmrMND2eAgs23PIMEPeA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/IncrementalID.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XLeCKXAmWL27m/61ThAaZCk1tVo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/IncrementalID.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3akIqgDuFqNP0lDKix/cfvhkin0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			b/AuuimJAnvpO8VH5b8FPENGiSI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/Mailer.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+aBLCoU3m5KVZpCaJ2zjeacN1OE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/Mailer.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IzOJsOQawjomLlX/fGGrrCVL+uU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/MultiAddPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PPuPh5yy31JDE9Fy4uPNIuUzH/g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/MultiAddPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LDoqGhGM5aZTTozz7FzwCfj3AHs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/MultiEditPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yslIosYmL+eFjPZ3xQnfNgWux3o=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/MultiEditPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gHYPplWERI534MzBw8ayrDc9PBM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/Pocketpedia.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LWwLLqSCGPTNW7e2iml0/HEJ/0Q=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/Pocketpedia.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			arGWIuV3nQ7CRR3ogfm+kJ+pJ6I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/PrintPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3tJKiYW0NzCnF5oqHH0sB8++DhM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/PrintPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EPwgFPUlo7QksOrJ9PP99YQ6R94=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/Registration.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Exz0NGCTEWnXrUan2ivE7B9C78Y=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/Registration.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Gy/CB3f1ob7yIM/G9BGGjgCSfXA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/SmartCollectionPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SnS/phHGJG3bBAkKSKjYvfCCtEw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/SmartCollectionPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gAFTZD4l4cWY9iu/t+b5taE5Tjs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/StatisticsConfigure.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lIR4/mS6q6Vrjxkk0Nj8VX2VkY8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/StatisticsConfigure.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4e3CWD9oPes7EB4C8/wGntNepio=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/WarningSheet.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fLyNr/j2Ejx6+W5DbbkfyxHvfiI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/WarningSheet.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8eUAa6pP8HyCsUnEfhbnRZE/y60=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/WebHeaderViews.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wStvDZrR+Q7GPeF1uWw9IifAeFw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/WebHeaderViews.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iqhOm4Fh+F48MEllUB7P1xdrRHE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/duplicatesView.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2UDUxBwl1nlz6fgdMh3fzKOjHNA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.lproj/duplicatesView.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0fbMv8IN8aE29x6I78QxtRYaBkw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/es.tiff</key>
+		<data>
+		CPbyB4ekzLgDklNsOWp7uZMyzcA=
+		</data>
+		<key>Resources/exportBackup.tiff</key>
+		<data>
+		DjnT6OmG3m2kM6AGiYZKEASWqjU=
+		</data>
+		<key>Resources/exportFTP.tiff</key>
+		<data>
+		brm3piTAob1A3QUXBJcc9qTAi2s=
+		</data>
+		<key>Resources/exportHTML.tiff</key>
+		<data>
+		zldEz1MWw+r8ATOo0ku5MVVS80M=
+		</data>
+		<key>Resources/exportPedia.tiff</key>
+		<data>
+		F/mYmhWzVn83Zkq/FcuM+g/iDPQ=
+		</data>
+		<key>Resources/exportText.tiff</key>
+		<data>
+		Fk1oyRMMUH6WAAsnfpHm9WhB2bA=
+		</data>
+		<key>Resources/exportToolbar.pdf</key>
+		<data>
+		hxz+LTf6XHNShxvOkIk8XokpgC0=
+		</data>
+		<key>Resources/exportToolbarMavericks.pdf</key>
+		<data>
+		+V5Z9OVad7Np+MBTme6wKyvaRC0=
+		</data>
+		<key>Resources/exportiPod.tiff</key>
+		<data>
+		wjxFpS260bmk4RFYN8Ua5VmeX74=
+		</data>
+		<key>Resources/fi.tiff</key>
+		<data>
+		VAcsGIeJAmaUNUgiO13FZM7bIoc=
+		</data>
+		<key>Resources/folder.tiff</key>
+		<data>
+		EoUVWDTs6LV5pkb3eECcVJOt2h0=
+		</data>
+		<key>Resources/fr.lproj/AboutPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hsAO8yq/ZUOasV5UcvaYT6nSTwc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/AboutPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			g868SRsMprIlQ2/EzVF1Kg3tRVI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/AmazonSettings.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			c2aelOmdObUzgZ/4yBaHDuIFKJM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/AmazonSettings.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7AqC3NeVj1CwogVORWB/5yLIvdY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/BorrowedBy.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			02298T6MYwqjJzuiY+n7FDFW2w4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/BorrowedBy.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			p+vB6rx++llJfk3igHnLkNTH2AE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/BorrowedHistory.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LmdrG4xEq77c5nIKzywQTx+TJQ4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/BorrowedHistory.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+8wTcVwDVbSScIQqsPMNxrX+V18=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/Contribute.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fYk3WxpDQ+dCogDa7rg1d6f2ydw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/Contribute.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			c9alZ6KcN2FNjo/HoZoa7E/WrwI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/ExportPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VPEPzUjhHmB6V41QGrRkzMKU8mw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/ExportPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GdL5q51qKw+TRIj6NCarWMoInC0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/ImageCapturePanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PAw/l3mdPkv2/gU4A1BN0s9aZ18=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/ImageCapturePanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QQmncgTQrul7A6NKXEiHaFOECtc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/ImportPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3dvh3Gv86TgY/vVY5+WWIGeJcUA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/ImportPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gKe2AslCy4Q2GFNy0zUcp+ekMRQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/IncrementalID.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wSvUh0W+xbpgP4XBs65SpMhhHp8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/IncrementalID.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8cBL2IU5TZBnQiO/KJxUEumYbiM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			x4Sq+Wv8GWI4hdrXuiy75EktW40=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/Mailer.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sZKwJKOxfb/HT2HiwxlUsFe3vbw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/Mailer.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nFmLzVA963FZctQg43BRQsWUy/Q=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/MultiAddPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			N4412A1S+nNKtlGp1PjgcZo90Ao=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/MultiAddPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TWFeRQDRyAse8YoHzoMmrKCW3G0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/MultiEditPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AmkWjTKfL/I9Q5piKB8XbHrAXrI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/MultiEditPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yDT8PbPbxDeiNpiaBe+mdOObst0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/Pocketpedia.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			l7fgmXDSKamTtlxNxOW6z38KIg8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/Pocketpedia.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5seP4L55gTp2VXKTmAgYfvHuoAc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/PrintPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/jgP0GicVhZVRp9ZZTl4VOtNffM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/PrintPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			y9hIHMRUjIDObwZW2yB67NZwHyQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/Registration.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jXbkawxl0GXOtV5QCplcDySsHes=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/Registration.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LMvVc9/yCKXbCyqPNFYYbI5LoZk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/SmartCollectionPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			B9haImL5LB43COVOZpRtPX2uN+w=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/SmartCollectionPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			59fhBH1XdNDwmm6LZMuYFPPSi1I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/StatisticsConfigure.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lIR4/mS6q6Vrjxkk0Nj8VX2VkY8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/StatisticsConfigure.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4e3CWD9oPes7EB4C8/wGntNepio=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/WarningSheet.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			02dnuSQO77Saz7xfvGHJ/uMgDsE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/WarningSheet.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1PmCqs12Ojn9YxdImU5Mq6UgaoA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/WebHeaderViews.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4qmi/wfPjNHLf1Ch0gSj9XDX8FI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/WebHeaderViews.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Nz+1fxU5hgaKgUj9LohhuHvVDz8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/duplicatesView.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			R2IQz3mdzHf2b7bHE9EKIbGQ0Dk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.lproj/duplicatesView.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CYjOysjBNigs4z64b44HIgo3F4U=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fr.tiff</key>
+		<data>
+		liIL/2NarAtOAUc6adaGiZy25As=
+		</data>
+		<key>Resources/fullscreenToolbar.pdf</key>
+		<data>
+		KhFI+t78+IMnz3ShzQpieuKHLjM=
+		</data>
+		<key>Resources/fullscreenToolbarMavericks.pdf</key>
+		<data>
+		mDMLFuj4ffgepFmW1tSWZr0Lkbg=
+		</data>
+		<key>Resources/gb.tiff</key>
+		<data>
+		Z+JGFKp4Dv0suL04oPa4mTJAAfg=
+		</data>
+		<key>Resources/goldenStar.tiff</key>
+		<data>
+		m0pZ8dbtiFHwGkwXa38PEUq9w8M=
+		</data>
+		<key>Resources/goldenStarHalf.tiff</key>
+		<data>
+		Xfhqm5/ZjbFESp6MX/wog+Ks1qc=
+		</data>
+		<key>Resources/goldenStarOutline.tiff</key>
+		<data>
+		I9zYthVHNwRkssEvw88bPhax0hg=
+		</data>
+		<key>Resources/greenLibrary.tiff</key>
+		<data>
+		dVVpw354H/Txawr9Jd3vtQljh1Q=
+		</data>
+		<key>Resources/gridToolbar.pdf</key>
+		<data>
+		TQFLhw9FJr7o6ci/mqrMnxo93Qo=
+		</data>
+		<key>Resources/gridToolbarMavericks.pdf</key>
+		<data>
+		k2g+1Rsb2GuBibXnYXQDdfXeTVE=
+		</data>
+		<key>Resources/hk.tiff</key>
+		<data>
+		VRaoeqWocdi4IdwRC17e2R+qwbM=
+		</data>
+		<key>Resources/it.lproj/AboutPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HA5XYkYlM3pfh2+Yn6mZEaoYjT8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/AboutPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			am+fDD7Nru2eTA0uCpRh7IoRnwo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/AmazonSettings.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			C2yXeFVwKgxmqB/LRxobDmNLxIc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/AmazonSettings.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OBKMAXXgPG3tjf3MUquhebSldIA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/BorrowedBy.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			E8rhT+A39J0qONKO0eGDW6bDEc4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/BorrowedBy.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			V6rh95uhCL3k1E5U4UnMI6wsZlA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/BorrowedHistory.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0mI1tumU4R4GFZyMiiqm0VU8slc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/BorrowedHistory.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mvaDCNBtfIsET/l7vhEIj9w6fo0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/Contribute.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OQjXMo38RY/Wqe1bQlh9qVeQqLg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/Contribute.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cVSB9BL19wAeW0KzCG3wEZ48lr0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/ExportPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			f3cnq8H+TtUaE6NAdGin7vrOmvE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/ExportPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			U+oVKY4DUPHFL/21fmKIKhLilkk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/ImageCapturePanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gZ+aIiUq3Q97om5oLRMwi8R01YU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/ImageCapturePanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ueTU/fQY43FWAhiv31esywYd8wM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/ImportPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LJKaAujsazNWyMaDpwhWaYEsc5I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/ImportPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			o4mVwFzBwSeDNLLxKYwHSKssd0w=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/IncrementalID.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LVyMHt00igZimrhZBxNQSuDVnjE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/IncrementalID.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WU2WpwEt7Et6R+PsosbnnN/ePDQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7T2gO0n0qs6actJ2YBu71KD991c=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/Mailer.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2eTlxfNUjzFRwNYBjIjKGT8f4Gs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/Mailer.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YHpjzqsP5rLXvAsRh8ZLZ+jVH7M=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/MultiAddPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			E3migwH0YCg9mUo1XGjRctT6h6A=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/MultiAddPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			D9wOHtt+QAqg4I4YFSaibJTeF3Q=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/MultiEditPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			noY6eqOG17wBpwcnchkHB5KO3OM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/MultiEditPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kciTXHaIdfp8XM2KAr7A5tdzOvM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/Pocketpedia.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9NH7Q3+BxUWYoTaynEAH8+8qVh4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/Pocketpedia.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			A+LyUd6ZjJ1VEhSWeHCVHZJ/uAs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/PrintPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HWC0PICS4c9IGg30M8NUs6B9Ixc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/PrintPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			quKKQiBy6JNwLSKDY0UXkpngt9k=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/Registration.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2yL2/kOG+vqDD+sRS/fXW+uvdxM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/Registration.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HWWUeRbtzSWS/9vVUEqGrdNB1jU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/SmartCollectionPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oddSn+wkbjW6aNSA3x6hkd2tw+g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/SmartCollectionPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8LDV2qdPpKWyoprGVabBYzvOaTE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/StatisticsConfigure.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lIR4/mS6q6Vrjxkk0Nj8VX2VkY8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/StatisticsConfigure.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4e3CWD9oPes7EB4C8/wGntNepio=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/WarningSheet.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			e2AtmGPV7OSBxjsEEOnymtg8Dzg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/WarningSheet.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1B9Ydpnh0pZRAwfJiu93ZQeiHe4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/WebHeaderViews.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SkjJjLSzUxH4xlv7Zvy9BPKk2ME=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/WebHeaderViews.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Rmz61LTiMSUqVhfL73XtmIQzZkQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/duplicatesView.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Kim2HwiFzpNPpTJ1muhLqkKRr58=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/duplicatesView.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1JjozSoaFesa0GnDXNRMOVHAHCk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.tiff</key>
+		<data>
+		Q3IgR4T0ah3ZVUtAjycPgNrZnnw=
+		</data>
+		<key>Resources/jaggedcircle.png</key>
+		<data>
+		auhNxDOJWJugBcP4REa5gvJdhZE=
+		</data>
+		<key>Resources/jaggedcircle3.png</key>
+		<data>
+		s9FD7q/GesKqWPZQ9l5OM5WofAg=
+		</data>
+		<key>Resources/jaggedcircle4.png</key>
+		<data>
+		bJZkS0YuMSZr71X68lxtBWOpx0k=
+		</data>
+		<key>Resources/jp.tiff</key>
+		<data>
+		cis8K1jEOdbuWe4iDqSplPyTt30=
+		</data>
+		<key>Resources/largeframe.tiff</key>
+		<data>
+		GgoGHse62RZbgeMG9mhsEIWyybI=
+		</data>
+		<key>Resources/library.tiff</key>
+		<data>
+		Uda/Hqr8XvgH/6TaN+tRKV/fp+U=
+		</data>
+		<key>Resources/libraryExcluded.tiff</key>
+		<data>
+		yMs0G4sgXVcUPUqMfEmBpR0YRI8=
+		</data>
+		<key>Resources/license.rtf</key>
+		<data>
+		qj1XdcU9/I288UPKbizDBU7BtUQ=
+		</data>
+		<key>Resources/linksToolbar.pdf</key>
+		<data>
+		pzjpE6DnOh/maRIa4ijfGodQdtg=
+		</data>
+		<key>Resources/linksToolbarMavericks.pdf</key>
+		<data>
+		4wFvFCPAu4DzxwUi2VbKcgOZL74=
+		</data>
+		<key>Resources/listToolbar.pdf</key>
+		<data>
+		JpvPpMpP7Ag/6CZIwnMlewT4dGU=
+		</data>
+		<key>Resources/listToolbarMavericks.pdf</key>
+		<data>
+		1dqjRY2Ao2oZEzmDPR2dK/Ey31Q=
+		</data>
+		<key>Resources/menuplugin.tiff</key>
+		<data>
+		QcyXyEiooQKh6v6xQBR5NMYH7lg=
+		</data>
+		<key>Resources/nl.lproj/AboutPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XaSGC1C3dol0a2n17RQQU4L1SUA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/AboutPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/vz9mcQQjElatTfaXufilCDEuig=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/AmazonSettings.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ecMUU8FhRDPwLZ5DK7Z/swDxrA8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/AmazonSettings.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			16IHBRxy9DvkdKwJnV/pysQXPig=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/BorrowedBy.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KYmPLBtR6/j4jVk6A3T95EUViV8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/BorrowedBy.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GDODOGlUhm904c6S4oLl/Hky2o4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/BorrowedHistory.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0gDhQjbKYc4aRhSwjrrvQnnasVo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/BorrowedHistory.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GDJt176zvGsryca2rNGd9P/vcSo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/Contribute.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nL2qbRhVtbzyMztO1ljbWroTaJU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/Contribute.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zqYp+8H97EF/Bk6/BxEDJ2ec02A=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/ExportPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+GUybbFDNjIYbt2yToS9iI16EQs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/ExportPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Tns2UlgYOXFNys5Ga/Oh8AIgCSc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/ImageCapturePanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5OMexsIes4hMDSLv9kAlAQw+SwU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/ImageCapturePanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WOkXwUwt5ApJFO53UXWsdojoZJs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/ImportPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8hAFRvL25i0HUwyzODxJY4CoLww=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/ImportPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jx8hcEy9AVWrmtN3/LYGFLUojhs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/IncrementalID.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2gwdP50nzog9xJ8pwfEj0PJfs6g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/IncrementalID.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ErVwOXJwyikhWboKodh7u7vy18E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			D4D0OuH2J2sDAutJFHjc5mCvUdY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/Mailer.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kEx85rgspr7hYuWvbikX9aLONFg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/Mailer.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lIuDcQQ07moFrz4pesG5Yub2U8Y=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/MultiAddPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3E6DLI8A5d/Ka0MzyO7egIW/UEs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/MultiAddPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dKEudXddFvMvaRXZrfSZw7Trokk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/MultiEditPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6yhBgf2IUenVfWiaXM8bYnBZzRQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/MultiEditPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OzQTAWqkFNZEt7MvrpNuGEalRDg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/Pocketpedia.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nKCff7j7M1ZByD3ptOaKX+wGHbk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/Pocketpedia.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9MCEeph1qfBYj1Yu42NY8xauI64=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/PrintPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ix3xG2HdWJ3CU6p3bBEIIVzuw4A=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/PrintPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lYlYSf1sMuHLdWpwDDtAiWK55Wc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/Registration.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4zBG9y10+JZgF+eNlESZHwfmVM0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/Registration.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AneUoCzgmTSnjrPgnLTgPxK88tA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/SmartCollectionPanel.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tbCQRvv/cIMFePepcOJ9CTLhbFE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/SmartCollectionPanel.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			41W/ZzeWFsbGbGpsLfY3tmwY2Yw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/StatisticsConfigure.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lIR4/mS6q6Vrjxkk0Nj8VX2VkY8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/StatisticsConfigure.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4e3CWD9oPes7EB4C8/wGntNepio=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/WarningSheet.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZAzgtQs6zqGaZuBEXLAKqJVPDRA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/WarningSheet.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pVSTQ0GRTAXA2uy0BN4S5xl0jbY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/WebHeaderViews.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IfaBAgVfwVRUsALDNfxHhxskJOE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/WebHeaderViews.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			59kuAgaHMrmIoWXpKVnfuTqWDrs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/duplicatesView.nib/designable.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TjXBL+7ojFYVFptFyCC426741k0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.lproj/duplicatesView.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rvXBmE5Ykkp5XdtCb7f7IyNkEwo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/nl.tiff</key>
+		<data>
+		aP7XjfWQ9LUWdTwprPiki3ha4/o=
+		</data>
+		<key>Resources/no.tiff</key>
+		<data>
+		OoUkZO2c0ixkQe9uBvLkvjTKYBo=
+		</data>
+		<key>Resources/nocrop.png</key>
+		<data>
+		Y+mkpmIfKjwonrSgNko84qjq4Hw=
+		</data>
+		<key>Resources/paperclip.tiff</key>
+		<data>
+		E6CNzvx4hs2ccP9iuACnirRbO1M=
+		</data>
+		<key>Resources/playToolbar.pdf</key>
+		<data>
+		ToGrJZaQNChzEeNE14W8ZQptX20=
+		</data>
+		<key>Resources/playToolbarMavericks.pdf</key>
+		<data>
+		vLWaT0BcahmTY/h95PCqeHaO5Us=
+		</data>
+		<key>Resources/prefAddEdit.tiff</key>
+		<data>
+		GG9rk++qT8D0QAHrOUcVxZT+v4g=
+		</data>
+		<key>Resources/prefautofill.tiff</key>
+		<data>
+		9vAzMDYLPSo3K+fPeudoNdjDHPk=
+		</data>
+		<key>Resources/prefemail.tiff</key>
+		<data>
+		whzdIN1D1PzeRSm5KcMgLG4BsTg=
+		</data>
+		<key>Resources/prefgeneral.tiff</key>
+		<data>
+		KCKi1SgytG4HMc+Biw1tNQCeKus=
+		</data>
+		<key>Resources/prefplugin.tiff</key>
+		<data>
+		EUIsq1ef2KUAlLapNiH3hS8e1w0=
+		</data>
+		<key>Resources/prefsPlugin.tiff</key>
+		<data>
+		ma8amU7VCnnJDzKBR17DyA+tWN8=
+		</data>
+		<key>Resources/prefstyle.tiff</key>
+		<data>
+		UwEfjE442HYREsPD87VWpvY3vVk=
+		</data>
+		<key>Resources/printToolbar.pdf</key>
+		<data>
+		Vjl3++gcmO7a30GqgHOEZnKzkqM=
+		</data>
+		<key>Resources/printToolbarMavericks.pdf</key>
+		<data>
+		xe4p1srKI+615R3KFsW7LU88+n0=
+		</data>
+		<key>Resources/pt.tiff</key>
+		<data>
+		8+2UzG0HIkIPK4ZrTGUwYQb5BPE=
+		</data>
+		<key>Resources/quickLogo.png</key>
+		<data>
+		FwLtNHlurroPe4wE9911UctHJfU=
+		</data>
+		<key>Resources/quicklogo@2x.png</key>
+		<data>
+		q9WR16PPeRaEiWmUBqc0Qs5Vu7A=
+		</data>
+		<key>Resources/removeToolbar.pdf</key>
+		<data>
+		nEImjZho4qhi/p+7GayqgxhOr+0=
+		</data>
+		<key>Resources/removeToolbarMavericks.pdf</key>
+		<data>
+		3bgl9dFmQWoMH80Q9m4SaGXwSHg=
+		</data>
+		<key>Resources/ru.tiff</key>
+		<data>
+		nXFDEpR3J2jmq/qPCjpey38ey6U=
+		</data>
+		<key>Resources/scanDiscToolbar.pdf</key>
+		<data>
+		TAijyrNU78bOf25fZExsJDU54VI=
+		</data>
+		<key>Resources/scanDiscToolbarMavericks.pdf</key>
+		<data>
+		TAijyrNU78bOf25fZExsJDU54VI=
+		</data>
+		<key>Resources/se.tiff</key>
+		<data>
+		TRbTLZU5hYeVT7mjtaywsPAWm8o=
+		</data>
+		<key>Resources/sedcommands.txt</key>
+		<data>
+		osOpr3xBgrF3yzAC1n0jmUFjeM8=
+		</data>
+		<key>Resources/sharedlibrary.png</key>
+		<data>
+		jv4/bXnbXTsFUK2ZyveJSLrimbY=
+		</data>
+		<key>Resources/smallframe.png</key>
+		<data>
+		QMPA+fAgnV436oeZcU1QP5G8IWU=
+		</data>
+		<key>Resources/smartCollectionMinus.tiff</key>
+		<data>
+		mcSZcBnVjobeI5/lydJ3+8KJNXk=
+		</data>
+		<key>Resources/smartCollectionPlus.tiff</key>
+		<data>
+		FsuLTp7B1N+bg2ObLg02nmoYI/w=
+		</data>
+		<key>Resources/star.tiff</key>
+		<data>
+		1F45OIOA5qMIoacUYYbU/zOjEIM=
+		</data>
+		<key>Resources/starHalf.tiff</key>
+		<data>
+		N5qkWxUIiw9kRrBZB99SqouH4No=
+		</data>
+		<key>Resources/statistics.html</key>
+		<data>
+		6KjBduiIjew/V8m+Zr97jSTUO1g=
+		</data>
+		<key>Resources/statsToolbar.pdf</key>
+		<data>
+		/Me3xi37lpJZuDtJT3Tccq2ze3I=
+		</data>
+		<key>Resources/statsToolbarMavericks.pdf</key>
+		<data>
+		s3Z0Sf7dGLHmQPSp+RJnO3w4QvE=
+		</data>
+		<key>Resources/successBell.aiff</key>
+		<data>
+		KimkDaTVNJqLCX76N5jvP73R+AA=
+		</data>
+		<key>Resources/uk.tiff</key>
+		<data>
+		vYxyGf3+dIIIsjtPkpl9P2h4y78=
+		</data>
+		<key>Resources/un.tiff</key>
+		<data>
+		LvCdUJOUf0jotJzEYVhwp23kLCw=
+		</data>
+		<key>Resources/unchecked.tiff</key>
+		<data>
+		B5BVPeo30XZfsq8oFsjZYKzJjDc=
+		</data>
+		<key>Resources/urlToolbar.pdf</key>
+		<data>
+		yfJlG/X7ORewvO79cZJn/Ahn7AQ=
+		</data>
+		<key>Resources/urlToolbarMavericks.pdf</key>
+		<data>
+		wpf5kRMklaUZfVg5RRVTsXcumsI=
+		</data>
+		<key>Resources/us.tiff</key>
+		<data>
+		Eyux2k3E1qLhp8PWEwDpzydubls=
+		</data>
+		<key>Resources/usedHistoryToolbar.pdf</key>
+		<data>
+		woJQ+zPBiaIwYcGYFo2FYUxu6z0=
+		</data>
+		<key>Resources/usedHistoryToolbarMavericks.pdf</key>
+		<data>
+		5XSzYAAkVo6LoHYguF2KDFex/tM=
+		</data>
+		<key>Resources/warning.tiff</key>
+		<data>
+		TD/8+80jKApvWtYPjQHCa5EUGoU=
+		</data>
+		<key>Resources/wishlist.tiff</key>
+		<data>
+		KD8RYfXXcbwwf1m/+FnTp6jB65g=
 		</data>
 	</dict>
 	<key>rules</key>
@@ -1551,6 +5752,80 @@
 		</dict>
 		<key>^version.plist$</key>
 		<true/>
+	</dict>
+	<key>rules2</key>
+	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^.*</key>
+		<true/>
+		<key>^Info\.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
 	</dict>
 </dict>
 </plist>

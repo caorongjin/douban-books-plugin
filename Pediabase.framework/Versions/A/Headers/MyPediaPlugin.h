@@ -1,9 +1,9 @@
 
 #import <Cocoa/Cocoa.h>
 
-//The method that the delgate implements to be told about search results
+//The method that the delegate implements to be told about search results
 @protocol PluginDelegate
-- (void)searchReturnedNumberOfResults:(int)numberOfResults sender:(id)sender;
+- (void)searchReturnedNumberOfResults:(NSInteger)numberOfResults sender:(id)sender;
 @end
 
 /*
@@ -13,7 +13,7 @@
 
 //This becomes the entry search, should only be a dictionary for entry, but it also works as a fallback for old plugins that handle "keyword" as the regular search
 - (void)searchFor:(NSDictionary *)searchDict sender:(id)sender;
-- (NSDictionary *)resultNumber:(int)number;
+- (NSDictionary *)resultNumber:(NSInteger)number;
 
 @optional
 - (NSImage *)coverForEntry:(MOEntry *)anEntry;
@@ -42,6 +42,8 @@
 - (NSArray *)menuCommandFor:(NSArray *)selectedObjects;
 - (NSDictionary *)detailsForPath:(NSString *)aString;
 @end
+//http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
+//http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 
 @interface MyPediaPlugin : NSObject <PediaPlugin> {
@@ -64,7 +66,7 @@
 - (void)searchForString:(NSString *)aString limit:(NSInteger)aLimitNumber type:(NSInteger)mediaNumber sort:(NSInteger)sortNumber sender:(id)sender;
 //This becomes the entry search, should only be a dictionary for entry, but it also works as a fallback for old plugins that handle "keyword" as the regular search
 - (void)searchFor:(NSDictionary *)searchDict sender:(id)sender;
-- (NSDictionary *)resultNumber:(int)number;
+- (NSDictionary *)resultNumber:(NSInteger)number;
 
 - (NSArray *)resultsTitles;
 - (NSObject*)delegate;
@@ -73,7 +75,7 @@
 
 //helper Methods
 - (void)downloadWebPage:(NSString *)aWebPage;
-- (void)downloadWebPage:(NSString *)aWebPage withPost:(NSString *)body encoding:(int)anEncoding;
+- (void)downloadWebPage:(NSString *)aWebPage withPost:(NSString *)body encoding:(NSStringEncoding)anEncoding;
 - (void)downloadComplete:(NSString *)HTMLSource;
 
 //### Old for compatability

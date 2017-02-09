@@ -6,7 +6,6 @@
  * Free Software Foundation, either version 3 of the License, or (at your
  * option) any later version.
  *
- * Pingguo Dictionary is distributed in the hope that it will be useful, but
  * WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
  * FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License
  * for more details.
@@ -63,8 +62,6 @@ typedef NSUInteger MKProgramType;
 #define MKKeyEntryCustomNine @"custom9"
 #define MKKeyEntryCustomTen @"custom10"
 
-#define MKKeyEntrySeries @"series"
-
 #define MKKeyEntryAwards @"awards"
 //A URL starting with http: that leads to the details page
 #define MKKeyEntryProductURL @"url"
@@ -95,8 +92,6 @@ typedef NSUInteger MKProgramType;
 #define MKKeyDVDCountry @"country"
 #define MKKeyDVDFeatures @"features"
 #define MKKeyDVDOriginalTitle @"originalTitle"
-#define MKKeyDVDEpisode @"episode"
-#define MKKeyDVDSeason @"season"
 
 //Bookpedia
 #define MKKeyBookAuthor @"author"
@@ -185,8 +180,6 @@ typedef NSUInteger MKProgramType;
 #define MKKeyCDArrayTracks @"tracks"
 // URL to the image
 #define MKKeyEntryImageLocation @"imageLocation"
-#define MKKeyEntryImagePreview @"imagePreview"
-
 
 //These most both be of equal length as the first canme in Names corresponds tothe first role in Roles
 #define MKKeyDVDArrayNames @"names"
